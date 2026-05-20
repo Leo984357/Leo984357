@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:leo2974656036@foxmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:leo984357@gmail.com"><img src="https://img.shields.io/badge/Gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Phone-%2B86%2013631696778-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <img src="https://img.shields.io/badge/Guangzhou%2C%20China-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
