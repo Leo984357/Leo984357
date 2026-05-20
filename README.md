@@ -42,33 +42,68 @@ TOEFL 102 · JLPT N2 · Junior Accounting Qualification · Tencent Cloud Profess
 
 ## 📁 Projects
 
-### [📈 qmt_investment_assistant](https://github.com/Leo984357/qmt_investment_assistant)
-**HS300 multi-factor stock selection & live trading system.**  
-Two-layer framework: market state identification (MA60/MA120, momentum) + LightGBM regression on 7 price-volume factors predicting 20-day returns. Includes backtesting engine, portfolio optimization, and QMT automated live execution. | *Python, LightGBM, QMT*
-
-### [🤖 genai_china_replication](https://github.com/Leo984357/genai_china_replication)
-**Academic research: corporate GenAI exposure from recruitment data.**  
-Pipeline processing ~7.5M job postings (2014–2024) using dictionary matching with TF-IDF + Multinomial Naive Bayes fallback. Constructs firm-year AI exposure factor (Ef) for Chinese A-share asset pricing tests. | *Python, NLP, Scikit-learn*
-
-### [💰 fund-pool-model](https://github.com/Leo984357/fund-pool-model)
-**Production mutual fund daily selection & portfolio weighting system.**  
-Reads NAV data from SQLite, computes factor scores (Sharpe, return, volatility, drawdown), ranks and selects top-N funds, generates equal-weight / inverse-volatility / hybrid portfolios. Includes PySide6 GUI. | *Python, SQLite, PySide6*
-
-### [🔄 fund-pool-model-rewritten](https://github.com/Leo984357/fund-pool-model-rewritten)
-**Production-grade rewrite with config-driven pipeline.**  
-Enhanced architecture with centralized config, explicit type-safe SQLite writes, phased pipeline (universe → fetch → factor → score → portfolio → risk → export → backtest), and improved GUI. | *Python, PySide6, SQLite*
-
-### [🧠 gamma-ai-exposure](https://github.com/Leo984357/gamma-ai-exposure)
-**NLP-based AI exposure mapping for Chinese listed companies.**  
-Maps job titles and descriptions to AI-related occupation categories using dictionary and ML classification. | *Python, NLP*
-
-### [📊 smart-fund](https://github.com/Leo984357/smart-fund)
-**Mutual fund data scraping and analysis tool.**  
-Extracts fund profiles, NAV histories, and fee structures from East Money / Tiantian Fund via web scraping. Outputs structured fund comparison data. | *Python, Web Scraping*
-
-### [📐 hs300-research-skeleton](https://github.com/Leo984357/hs300-research-skeleton)
-**Modular quant research framework for CSI 300.**  
-Pluggable pipeline: data loading, feature engineering, model training, backtesting, portfolio construction, reporting. | *Python, Pandas, LightGBM*
+<table>
+  <tr>
+    <td width="35" valign="top">📈</td>
+    <td width="220" valign="top"><b><a href="https://github.com/Leo984357/qmt_investment_assistant">qmt_investment_assistant</a></b></td>
+    <td valign="top">HS300 multi-factor stock selection & live trading system. Two-layer framework: market state identification + LightGBM 7-factor regression. 81.87% return. Live on QMT.</td>
+    <td width="180" valign="top"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LightGBM-3D7EBB?style=flat&logo=lightgbm&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td colspan="4"><hr noshade size="1"></td>
+  </tr>
+  <tr>
+    <td valign="top">🤖</td>
+    <td valign="top"><b><a href="https://github.com/Leo984357/genai_china_replication">genai_china_replication</a></b></td>
+    <td valign="top">Academic research: corporate GenAI exposure from ~7.5M job postings (2014–2024). Dictionary matching + TF-IDF + Naive Bayes. Firm-year AI exposure factor for asset pricing.</td>
+    <td valign="top"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td colspan="4"><hr noshade size="1"></td>
+  </tr>
+  <tr>
+    <td valign="top">💰</td>
+    <td valign="top"><b><a href="https://github.com/Leo984357/fund-pool-model">fund-pool-model</a></b></td>
+    <td valign="top">Production mutual fund selection system: NAV fetching, factor scoring (Sharpe, return, volatility), top-N ranking, portfolio weighting. PySide6 GUI included.</td>
+    <td valign="top"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td colspan="4"><hr noshade size="1"></td>
+  </tr>
+  <tr>
+    <td valign="top">🔄</td>
+    <td valign="top"><b><a href="https://github.com/Leo984357/fund-pool-model-rewritten">fund-pool-model-rewritten</a></b></td>
+    <td valign="top">Production-grade rewrite: centralized config, type-safe SQLite, phased pipeline. Enhanced GUI with backtesting and risk checks.</td>
+    <td valign="top"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td colspan="4"><hr noshade size="1"></td>
+  </tr>
+  <tr>
+    <td valign="top">🧠</td>
+    <td valign="top"><b><a href="https://github.com/Leo984357/gamma-ai-exposure">gamma-ai-exposure</a></b></td>
+    <td valign="top">NLP-based AI exposure mapping for Chinese listed firms. Classifies job data into AI-related occupation categories.</td>
+    <td valign="top"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td colspan="4"><hr noshade size="1"></td>
+  </tr>
+  <tr>
+    <td valign="top">📊</td>
+    <td valign="top"><b><a href="https://github.com/Leo984357/smart-fund">smart-fund</a></b></td>
+    <td valign="top">Fund data scraping from East Money / Tiantian Fund. Extracts NAV, fee structures, and fund profiles for comparison.</td>
+    <td valign="top"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td colspan="4"><hr noshade size="1"></td>
+  </tr>
+  <tr>
+    <td valign="top">📐</td>
+    <td valign="top"><b><a href="https://github.com/Leo984357/hs300-research-skeleton">hs300-research-skeleton</a></b></td>
+    <td valign="top">Modular quant research framework: data → features → model → backtest → portfolio → report.</td>
+    <td valign="top"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LightGBM-3D7EBB?style=flat&logo=lightgbm&logoColor=white" /></td>
+  </tr>
+</table>
 
 <br>
 
