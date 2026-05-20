@@ -1,19 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=180&section=header&text=Shuoren%20Li&fontSize=45&fontColor=ffffff&fontAlignY=65" />
+  <h1>Shuoren Li</h1>
+  <p>
+    <a href="mailto:leo2974656036@foxmail.com"><img src="https://img.shields.io/badge/leo2974656036@foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/+86_13631696778-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <a href="https://github.com/Leo984357"><img src="https://img.shields.io/badge/github.com/Leo984357-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Guangzhou%2FShenzhen-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </p>
+  <p><b>Financial Engineering</b> @ Guangdong University of Foreign Studies</p>
 </div>
-
-<p align="center">
-  <a href="mailto:leo2974656036@foxmail.com"><img src="https://img.shields.io/badge/leo2974656036@foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/+86_13631696778-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://github.com/Leo984357"><img src="https://img.shields.io/badge/github.com/Leo984357-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Guangzhou%2F%20Shenzhen-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Financial Engineering</b> @ Guangdong University of Foreign Studies
-</p>
-
-<br>
 
 ### Languages & Tools
 
@@ -37,21 +31,44 @@
 
 ### Projects
 
-<p align="center">
-  <a href="https://github.com/Leo984357/qmt_investment_assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=qmt_investment_assistant&theme=graywhite&hide_border=true&description_lines_count=2" width="45%" /></a>
-  <a href="https://github.com/Leo984357/genai_china_replication"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=genai_china_replication&theme=graywhite&hide_border=true&description_lines_count=2" width="45%" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Leo984357/fund-pool-model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=fund-pool-model&theme=graywhite&hide_border=true&description_lines_count=2" width="45%" /></a>
-  <a href="https://github.com/Leo984357/fund-pool-model-rewritten"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=fund-pool-model-rewritten&theme=graywhite&hide_border=true&description_lines_count=2" width="45%" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Leo984357/gamma-ai-exposure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=gamma-ai-exposure&theme=graywhite&hide_border=true&description_lines_count=2" width="45%" /></a>
-  <a href="https://github.com/Leo984357/smart-fund"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=smart-fund&theme=graywhite&hide_border=true&description_lines_count=2" width="45%" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Leo984357/hs300-research-skeleton"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=hs300-research-skeleton&theme=graywhite&hide_border=true&description_lines_count=2" width="45%" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Leo984357/qmt_investment_assistant"><img src="https://img.shields.io/badge/QMT%20Investment%20Assistant-0d47a1?style=for-the-badge" /></a>
+      <br><sub>HS300 quantitative trading strategy with LightGBM</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Leo984357/genai_china_replication"><img src="https://img.shields.io/badge/GenAI%20China%20Replication-1565C0?style=for-the-badge" /></a>
+      <br><sub>NLP pipeline for corporate LLM exposure factor</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Leo984357/fund-pool-model"><img src="https://img.shields.io/badge/Fund%20Pool%20Model-1976D2?style=for-the-badge" /></a>
+      <br><sub>Fund pool construction & performance evaluation</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Leo984357/fund-pool-model-rewritten"><img src="https://img.shields.io/badge/Fund%20Pool%20Rewritten-1E88E5?style=for-the-badge" /></a>
+      <br><sub>Refactored fund pool model with improved architecture</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Leo984357/gamma-ai-exposure"><img src="https://img.shields.io/badge/Gamma%20AI%20Exposure-00838F?style=for-the-badge" /></a>
+      <br><sub>AI exposure measurement via earnings call NLP</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Leo984357/smart-fund"><img src="https://img.shields.io/badge/Smart%20Fund-00695C?style=for-the-badge" /></a>
+      <br><sub>Fund data scraping & analytical dashboard</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" colspan="2">
+      <a href="https://github.com/Leo984357/hs300-research-skeleton"><img src="https://img.shields.io/badge/HS300%20Research%20Skeleton-2E7D32?style=for-the-badge" /></a>
+      <br><sub>HS300 multi-factor research framework</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -76,7 +93,6 @@
 <br>
 
 <p align="center">
-  <i>Quantitative Investment &nbsp;·&nbsp; Alternative Data &nbsp;·&nbsp; Asset Pricing</i>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1976d2,100:0d47a1&height=80&section=footer" />
+  <img src="https://img.shields.io/badge/Quantitative%20Investment%20|%20Alternative%20Data%20|%20Asset%20Pricing-0d47a1?style=for-the-badge&labelColor=0d47a1" />
 </p>
