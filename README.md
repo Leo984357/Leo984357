@@ -98,7 +98,11 @@ First Prize winner of 2025 FinTech Diankuan Cup (Top 2%).
 <br>
 
 <div align="center">
-  <img src="https://github.com/Leo984357/Leo984357/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Leo984357/Leo984357/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Leo984357/Leo984357/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://github.com/Leo984357/Leo984357/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br>
