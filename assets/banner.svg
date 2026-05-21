@@ -58,12 +58,12 @@
     </circle>
   </g>
 
-  <text x="450" y="95" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif" font-size="56" font-weight="800" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" letter-spacing="1.5">
-    Shuoren Li
+  <text x="450" y="95" font-family="'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',Consolas,'Courier New',monospace" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" letter-spacing="2">
+    &gt; Shuoren Li
     <animate attributeName="opacity" values="0.9;1;0.9" dur="4s" repeatCount="indefinite" />
   </text>
 
-  <text x="450" y="145" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif" font-size="16" fill="rgba(255,255,255,0.85)" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.5">
+  <text x="450" y="145" font-family="'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="rgba(255,255,255,0.80)" text-anchor="middle" dominant-baseline="middle" letter-spacing="1">
     Financial Engineering @ Guangdong University of Foreign Studies
   </text>
 </svg>
