@@ -1,12 +1,11 @@
 <div align="center">
-  <h1>Shuoren Li</h1>
+  <img src="https://cdn.jsdelivr.net/gh/Leo984357/Leo984357@main/assets/banner.svg" width="100%" />
   <p>
     <a href="mailto:leo2974656036@foxmail.com"><img src="https://img.shields.io/badge/leo2974656036@foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/+86_13631696778-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a href="https://github.com/Leo984357"><img src="https://img.shields.io/badge/github.com/Leo984357-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Guangzhou%2FShenzhen-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </p>
-  <p><b>Financial Engineering</b> @ Guangdong University of Foreign Studies</p>
 </div>
 
 ### Languages & Tools
