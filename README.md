@@ -38,37 +38,37 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/qmt_investment_assistant"><img src="https://img.shields.io/badge/QMT%20Investment%20Assistant-0d47a1?style=for-the-badge" /></a>
-      <br><small>HS300 quantitative trading strategy with LightGBM</small>
+      <br>HS300 quantitative trading strategy with LightGBM
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/genai_china_replication"><img src="https://img.shields.io/badge/GenAI%20China%20Replication-1565C0?style=for-the-badge" /></a>
-      <br><small>NLP pipeline for corporate LLM exposure factor</small>
+      <br>NLP pipeline for corporate LLM exposure factor
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/fund-pool-model"><img src="https://img.shields.io/badge/Fund%20Pool%20Model-1976D2?style=for-the-badge" /></a>
-      <br><small>Fund pool construction & performance evaluation</small>
+      <br>Fund pool construction & performance evaluation
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/fund-pool-model-rewritten"><img src="https://img.shields.io/badge/Fund%20Pool%20Rewritten-1E88E5?style=for-the-badge" /></a>
-      <br><small>Refactored fund pool model with improved architecture</small>
+      <br>Refactored fund pool model with improved architecture
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/gamma-ai-exposure"><img src="https://img.shields.io/badge/Gamma%20AI%20Exposure-00838F?style=for-the-badge" /></a>
-      <br><small>AI exposure measurement via earnings call NLP</small>
+      <br>AI exposure measurement via earnings call NLP
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/smart-fund"><img src="https://img.shields.io/badge/Smart%20Fund-00695C?style=for-the-badge" /></a>
-      <br><small>Fund data scraping & analytical dashboard</small>
+      <br>Fund data scraping & analytical dashboard
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" colspan="2">
       <a href="https://github.com/Leo984357/hs300-research-skeleton"><img src="https://img.shields.io/badge/HS300%20Research%20Skeleton-2E7D32?style=for-the-badge" /></a>
-      <br><small>HS300 multi-factor research framework</small>
+      <br>HS300 multi-factor research framework
     </td>
   </tr>
 </table>
