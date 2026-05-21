@@ -1,10 +1,12 @@
 <div align="center">
   <img src="assets/banner.svg" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&width=600&lines=Quantitative+Investment+%7C+Alternative+Data;ML-driven+trading+strategies+%7C+NLP+factor+models;LightGBM+Multi-Factor+Strategy+%E2%80%94+Live+on+QMT;First+Author+%E2%80%94+LLM+Exposure+Factor" />
   <p>
     <a href="mailto:leo2974656036@foxmail.com"><img src="https://img.shields.io/badge/leo2974656036@foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/+86_13631696778-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a href="https://github.com/Leo984357"><img src="https://img.shields.io/badge/github.com/Leo984357-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Guangzhou%2FShenzhen-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Leo984357.Leo984357&left_text=Visitors" />
   </p>
 </div>
 
@@ -90,6 +92,12 @@
 81.87% cumulative return vs 11.87% benchmark (2022–2025). Live on QMT.
 
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Leo984357/Leo984357@main/profile-snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Leo984357/Leo984357@main/profile-snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Leo984357/Leo984357@main/profile-snake/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <p align="center">
   <br>
