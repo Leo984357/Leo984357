@@ -10,6 +10,8 @@
   </p>
 </div>
 
+<font face="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace">
+
 ### Languages & Tools
 
 <p align="center">
@@ -28,7 +30,11 @@
   <code>Wind</code> <code>CSMAR</code> <code>iFind</code> <code>AKShare</code> <code>Selenium</code> <code>PySide6</code> <code>SQLite</code>
 </p>
 
+</font>
+
 <br>
+
+<font face="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace">
 
 ### Projects
 
@@ -36,42 +42,46 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/qmt_investment_assistant"><img src="https://img.shields.io/badge/QMT%20Investment%20Assistant-0d47a1?style=for-the-badge" /></a>
-      <br><sub>HS300 quantitative trading strategy with LightGBM</sub>
+      <br><font size="2">HS300 quantitative trading strategy with LightGBM</font>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/genai_china_replication"><img src="https://img.shields.io/badge/GenAI%20China%20Replication-1565C0?style=for-the-badge" /></a>
-      <br><sub>NLP pipeline for corporate LLM exposure factor</sub>
+      <br><font size="2">NLP pipeline for corporate LLM exposure factor</font>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/fund-pool-model"><img src="https://img.shields.io/badge/Fund%20Pool%20Model-1976D2?style=for-the-badge" /></a>
-      <br><sub>Fund pool construction & performance evaluation</sub>
+      <br><font size="2">Fund pool construction & performance evaluation</font>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/fund-pool-model-rewritten"><img src="https://img.shields.io/badge/Fund%20Pool%20Rewritten-1E88E5?style=for-the-badge" /></a>
-      <br><sub>Refactored fund pool model with improved architecture</sub>
+      <br><font size="2">Refactored fund pool model with improved architecture</font>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/gamma-ai-exposure"><img src="https://img.shields.io/badge/Gamma%20AI%20Exposure-00838F?style=for-the-badge" /></a>
-      <br><sub>AI exposure measurement via earnings call NLP</sub>
+      <br><font size="2">AI exposure measurement via earnings call NLP</font>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/smart-fund"><img src="https://img.shields.io/badge/Smart%20Fund-00695C?style=for-the-badge" /></a>
-      <br><sub>Fund data scraping & analytical dashboard</sub>
+      <br><font size="2">Fund data scraping & analytical dashboard</font>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" colspan="2">
       <a href="https://github.com/Leo984357/hs300-research-skeleton"><img src="https://img.shields.io/badge/HS300%20Research%20Skeleton-2E7D32?style=for-the-badge" /></a>
-      <br><sub>HS300 multi-factor research framework</sub>
+      <br><font size="2">HS300 multi-factor research framework</font>
     </td>
   </tr>
 </table>
 
+</font>
+
 <br>
+
+<font face="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace">
 
 ### Experience
 
@@ -81,7 +91,11 @@
 | **China Foreign Trade Centre** · VIP Affairs Intern | Guangzhou · Sep 2025 – Nov 2025 |
 | **Tencent CSIG** · Operations Intern | Shenzhen · Jul 2024 – Aug 2024 |
 
+</font>
+
 <br>
+
+<font face="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace">
 
 ### Research
 
@@ -90,6 +104,8 @@
 
 **HS300 LightGBM Multi-Factor Strategy** — *First Prize, FinTech Diankuan Cup (Top 2%)*  
 81.87% cumulative return vs 11.87% benchmark (2022–2025). Live on QMT.
+
+</font>
 
 <br>
 
