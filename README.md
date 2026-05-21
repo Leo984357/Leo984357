@@ -38,37 +38,37 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/qmt_investment_assistant"><img src="https://img.shields.io/badge/QMT%20Investment%20Assistant-0d47a1?style=for-the-badge" /></a>
-      <br>HS300 quantitative trading strategy with LightGBM
+      <br>HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/genai_china_replication"><img src="https://img.shields.io/badge/GenAI%20China%20Replication-1565C0?style=for-the-badge" /></a>
-      <br>NLP pipeline for corporate LLM exposure factor
+      <br>7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/fund-pool-model"><img src="https://img.shields.io/badge/Fund%20Pool%20Model-1976D2?style=for-the-badge" /></a>
-      <br>Fund pool construction & performance evaluation
+      <br>基金池构建 · 绩效归因 · 多维度筛选
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/fund-pool-model-rewritten"><img src="https://img.shields.io/badge/Fund%20Pool%20Rewritten-1E88E5?style=for-the-badge" /></a>
-      <br>Refactored fund pool model with improved architecture
+      <br>重构版 · 架构优化 · 性能提升
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/gamma-ai-exposure"><img src="https://img.shields.io/badge/Gamma%20AI%20Exposure-00838F?style=for-the-badge" /></a>
-      <br>AI exposure measurement via earnings call NLP
+      <br>财报电话会议 NLP · 企业 AI 暴露度量
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/smart-fund"><img src="https://img.shields.io/badge/Smart%20Fund-00695C?style=for-the-badge" /></a>
-      <br>Fund data scraping & analytical dashboard
+      <br>基金数据爬取 · 分析仪表盘 · PySide6
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" colspan="2">
       <a href="https://github.com/Leo984357/hs300-research-skeleton"><img src="https://img.shields.io/badge/HS300%20Research%20Skeleton-2E7D32?style=for-the-badge" /></a>
-      <br>HS300 multi-factor research framework
+      <br>HS300 多因子研究骨架 · 回测框架
     </td>
   </tr>
 </table>
@@ -82,6 +82,7 @@
 | **Securities Times** · Research Intern | Shenzhen · Jul 2025 – Sep 2025 |
 | **China Foreign Trade Centre** · VIP Affairs Intern | Guangzhou · Sep 2025 – Nov 2025 |
 | **Tencent CSIG** · Operations Intern | Shenzhen · Jul 2024 – Aug 2024 |
+| **GDUFS** · B.Eng Financial Engineering | Guangzhou · 2022 – 2026 |
 
 <br>
 
