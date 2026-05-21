@@ -1,69 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%" height="100%">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0d47a1">
-        <animate attributeName="stop-color" values="#0d47a1;#1565C0;#1976D2;#1E88E5;#1976D2;#1565C0;#0d47a1" dur="12s" repeatCount="indefinite" />
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a1a">
+        <animate attributeName="stop-color" values="#0a0a1a;#0d1b2a;#1b2838;#0d1b2a;#0a0a1a" dur="10s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#1976D2">
-        <animate attributeName="stop-color" values="#1976D2;#1E88E5;#1565C0;#0d47a1;#1565C0;#1E88E5;#1976D2" dur="12s" repeatCount="indefinite" />
+      <stop offset="100%" stop-color="#1a1a3e">
+        <animate attributeName="stop-color" values="#1a1a3e;#1b2838;#0d1b2a;#1b2838;#1a1a3e" dur="10s" repeatCount="indefinite" />
       </stop>
-    </linearGradient>
-    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="rgba(255,255,255,0.06)" />
-      <stop offset="50%" stop-color="rgba(255,255,255,0.10)" />
-      <stop offset="100%" stop-color="rgba(255,255,255,0.06)" />
-    </linearGradient>
-    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="rgba(255,255,255,0.04)" />
-      <stop offset="50%" stop-color="rgba(255,255,255,0.08)" />
-      <stop offset="100%" stop-color="rgba(255,255,255,0.04)" />
     </linearGradient>
   </defs>
 
-  <rect width="900" height="200" fill="url(#bg)" rx="0" />
+  <rect width="900" height="200" fill="url(#bg)" />
 
-  <rect width="900" height="200" fill="rgba(0,0,0,0.08)">
-    <animate attributeName="opacity" values="0.08;0.12;0.08" dur="8s" repeatCount="indefinite" />
+  <rect x="30" y="20" width="840" height="160" rx="10" fill="#111122" stroke="#2a2a4a" stroke-width="1.5" />
+
+  <rect x="30" y="20" width="840" height="32" rx="10" fill="#0d0d1f" />
+  <rect x="30" y="42" width="840" height="10" fill="#0d0d1f" />
+
+  <circle cx="52" cy="36" r="5.5" fill="#ff5f56" />
+  <circle cx="70" cy="36" r="5.5" fill="#ffbd2e" />
+  <circle cx="88" cy="36" r="5.5" fill="#27c93f" />
+
+  <text x="450" y="39" font-family="'SF Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" fill="#555" text-anchor="middle" dominant-baseline="middle">bash — shuoren@profile</text>
+
+  <text x="50" y="82" font-family="'SF Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#00d68f">
+    <tspan fill="#00d68f">shuoren@profile</tspan>
+    <tspan fill="#ffffff">:</tspan>
+    <tspan fill="#3b82f6">~</tspan>
+    <tspan fill="#ffffff">$ </tspan>
+    <tspan fill="#e0e0e0">cat about.md</tspan>
+  </text>
+
+  <text x="50" y="112" font-family="'SF Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" fill="#e0e0e0">
+    <tspan fill="#e0e0e0">Shuoren Li — Financial Engineering @ GDUFS</tspan>
+  </text>
+
+  <text x="50" y="152" font-family="'SF Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#00d68f">
+    <tspan fill="#00d68f">shuoren@profile</tspan>
+    <tspan fill="#ffffff">:</tspan>
+    <tspan fill="#3b82f6">~</tspan>
+    <tspan fill="#ffffff">$ </tspan>
+  </text>
+
+  <rect x="375" y="137" width="9" height="16" fill="#ffffff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
   </rect>
 
-  <g>
-    <ellipse cx="150" cy="180" rx="400" ry="60" fill="url(#wave1)">
-      <animate attributeName="cx" values="150;250;150" dur="7s" repeatCount="indefinite" />
-      <animate attributeName="ry" values="60;70;60" dur="7s" repeatCount="indefinite" />
-    </ellipse>
-  </g>
-
-  <g>
-    <ellipse cx="600" cy="190" rx="350" ry="40" fill="url(#wave2)">
-      <animate attributeName="cx" values="600;500;600" dur="9s" repeatCount="indefinite" />
-      <animate attributeName="ry" values="40;50;40" dur="9s" repeatCount="indefinite" />
-    </ellipse>
-  </g>
-
-  <g opacity="0.15">
-    <circle cx="100" cy="30" r="3">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="250" cy="50" r="2">
-      <animate attributeName="opacity" values="1;0.3;1" dur="4s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="500" cy="25" r="2.5">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="3.5s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="700" cy="45" r="2">
-      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="5s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="800" cy="30" r="3">
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="4.5s" repeatCount="indefinite" />
-    </circle>
-  </g>
-
-  <text x="450" y="95" font-family="'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',Consolas,'Courier New',monospace" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" letter-spacing="2">
-    &gt; Shuoren Li
-    <animate attributeName="opacity" values="0.9;1;0.9" dur="4s" repeatCount="indefinite" />
-  </text>
-
-  <text x="450" y="145" font-family="'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="rgba(255,255,255,0.80)" text-anchor="middle" dominant-baseline="middle" letter-spacing="1">
-    Financial Engineering @ Guangdong University of Foreign Studies
-  </text>
+  <text x="105" y="185" font-family="'SF Mono','Fira Code',Consolas,'Courier New',monospace" font-size="10" fill="#333" text-anchor="middle">Quantitative Investment  |  Alternative Data  |  Asset Pricing</text>
 </svg>
