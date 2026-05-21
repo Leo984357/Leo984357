@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Leo984357/Leo984357@main/assets/banner.svg" width="100%" />
+  <img src="assets/banner.svg" width="100%" />
   <p>
     <a href="mailto:leo2974656036@foxmail.com"><img src="https://img.shields.io/badge/leo2974656036@foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/+86_13631696778-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
