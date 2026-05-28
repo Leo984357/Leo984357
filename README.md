@@ -24,10 +24,13 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/QMT-2D72D9?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/web3.py-4A8E8F?style=for-the-badge&logo=web3.js&logoColor=white" />
 </div>
 
 <div align="center">
-  <code>Wind</code> <code>CSMAR</code> <code>iFind</code> <code>AKShare</code> <code>Selenium</code> <code>PySide6</code> <code>SQLite</code>
+  <code>Wind</code> <code>CSMAR</code> <code>iFind</code> <code>AKShare</code> <code>Selenium</code> <code>PySide6</code> <code>SQLite</code> <code>Ethereum</code>
 </div>
 
 <br>
@@ -71,8 +74,8 @@
       <br>HS300 多因子研究骨架 · 回测框架
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/strategy-audit-prototype"><img src="https://img.shields.io/badge/Strategy%20Audit%20Prototype-6A1B9A?style=for-the-badge"/></a>
-      <br>Solidity · 联盟链存证 · 程序化交易合规 · Hardhat 测试
+      <a href="https://github.com/Leo984357/strategy-audit-prototype"><img src="https://img.shields.io/badge/Strategy%20Audit%20Prototype-6A1B9A?style=for-the-badge" /></a>
+      <br>Solidity on-chain audit · Hardhat · Strategy lifecycle compliance
     </td>
   </tr>
 </table>
