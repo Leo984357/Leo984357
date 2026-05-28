@@ -71,8 +71,8 @@
       <br>HS300 多因子研究骨架 · 回测框架
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/strategy-audit-prototype"><img src="https://img.shields.io/badge/Strategy%20Audit%20Prototype-6A1B9A?style=for-the-badge" /></a>
-      <br>Solidity 链上存证 · 量化策略合规审计 · Hardhat
+      <a href="https://github.com/Leo984357/strategy-audit-prototype"><img src="https://img.shields.io/badge/量化策略链上审计原型-6A1B9A?style=for-the-badge" /></a>
+      <br>Solidity · 联盟链存证 · 程序化交易合规 · Hardhat 测试
     </td>
   </tr>
 </table>
