@@ -66,9 +66,13 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" colspan="2">
+    <td width="50%" align="center">
       <a href="https://github.com/Leo984357/hs300-research-skeleton"><img src="https://img.shields.io/badge/HS300%20Research%20Skeleton-2E7D32?style=for-the-badge" /></a>
       <br>HS300 多因子研究骨架 · 回测框架
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Leo984357/strategy-audit-prototype"><img src="https://img.shields.io/badge/Strategy%20Audit%20Prototype-6A1B9A?style=for-the-badge" /></a>
+      <br>Solidity 链上存证 · 量化策略合规审计 · Hardhat
     </td>
   </tr>
 </table>
