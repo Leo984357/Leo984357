@@ -41,7 +41,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/qmt_investment_assistant"><img src="https://img.shields.io/badge/QMT%20Investment%20Assistant-0d47a1?style=for-the-badge" /></a>
-      <br>HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘
+      <br>HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘 · <a href="https://github.com/Leo984357/qmt_investment_assistant/blob/main/METHODOLOGY.md">完整方法论 →</a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Leo984357/genai_china_replication"><img src="https://img.shields.io/badge/GenAI%20China%20Replication-1565C0?style=for-the-badge" /></a>
