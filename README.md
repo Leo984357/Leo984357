@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="mailto:leo2974656036@foxmail.com"><img src="https://img.shields.io/badge/leo2974656036@foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Leo984357"><img src="https://img.shields.io/badge/github.com/Leo984357-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Guangzhou%2FShenzhen-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://github.com/Leo984357"><img src="https://img.shields.io/badge/github.com/Leo984357-4158D0?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Guangzhou%2FShenzhen-C850C0?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Leo984357.Leo984357&left_text=Visitors" />
 </div>
 
@@ -15,18 +15,18 @@
 ### Languages & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-3D7EBB?style=for-the-badge&logo=lightgbm&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/QMT-2D72D9?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4158D0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-4158D0?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4158D0?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-C850C0?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-C850C0?style=for-the-badge&logo=lightgbm&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-C850C0?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-C850C0?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FFCC70?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/QMT-4158D0?style=for-the-badge&logo=tradingview&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
-  <img src="https://img.shields.io/badge/web3.py-4A8E8F?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFCC70?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/web3.py-C850C0?style=for-the-badge&logo=web3.js&logoColor=white" />
 </div>
 
 <div align="center">
@@ -40,41 +40,41 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/qmt_investment_assistant"><img src="https://img.shields.io/badge/QMT%20Investment%20Assistant-0d47a1?style=for-the-badge" /></a>
+      <a href="https://github.com/Leo984357/qmt_investment_assistant"><img src="https://img.shields.io/badge/QMT%20Investment%20Assistant-4158D0?style=for-the-badge" /></a>
       <br>HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘 · <a href="https://github.com/Leo984357/qmt_investment_assistant/blob/main/METHODOLOGY.md">完整方法论 →</a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/genai_china_replication"><img src="https://img.shields.io/badge/GenAI%20China%20Replication-1565C0?style=for-the-badge" /></a>
+      <a href="https://github.com/Leo984357/genai_china_replication"><img src="https://img.shields.io/badge/GenAI%20China%20Replication-C850C0?style=for-the-badge" /></a>
       <br>7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/fund-pool-model"><img src="https://img.shields.io/badge/Fund%20Pool%20Model-1976D2?style=for-the-badge" /></a>
+      <a href="https://github.com/Leo984357/fund-pool-model"><img src="https://img.shields.io/badge/Fund%20Pool%20Model-FFCC70?style=for-the-badge" /></a>
       <br>基金池构建 · 绩效归因 · 多维度筛选
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/fund-pool-model-rewritten"><img src="https://img.shields.io/badge/Fund%20Pool%20Rewritten-1E88E5?style=for-the-badge" /></a>
+      <a href="https://github.com/Leo984357/fund-pool-model-rewritten"><img src="https://img.shields.io/badge/Fund%20Pool%20Rewritten-4158D0?style=for-the-badge" /></a>
       <br>重构版 · 架构优化 · 性能提升
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/gamma-ai-exposure"><img src="https://img.shields.io/badge/Gamma%20AI%20Exposure-00838F?style=for-the-badge" /></a>
+      <a href="https://github.com/Leo984357/gamma-ai-exposure"><img src="https://img.shields.io/badge/Gamma%20AI%20Exposure-C850C0?style=for-the-badge" /></a>
       <br>财报电话会议 NLP · 企业 AI 暴露度量
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/smart-fund"><img src="https://img.shields.io/badge/Smart%20Fund-00695C?style=for-the-badge" /></a>
+      <a href="https://github.com/Leo984357/smart-fund"><img src="https://img.shields.io/badge/Smart%20Fund-FFCC70?style=for-the-badge" /></a>
       <br>基金数据爬取 · 分析仪表盘 · PySide6
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/hs300-research-skeleton"><img src="https://img.shields.io/badge/HS300%20Research%20Skeleton-2E7D32?style=for-the-badge" /></a>
+      <a href="https://github.com/Leo984357/hs300-research-skeleton"><img src="https://img.shields.io/badge/HS300%20Research%20Skeleton-4158D0?style=for-the-badge" /></a>
       <br>HS300 多因子研究骨架 · 回测框架
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/strategy-audit-prototype"><img src="https://img.shields.io/badge/Strategy%20Audit%20Prototype-6A1B9A?style=for-the-badge" /></a>
+      <a href="https://github.com/Leo984357/strategy-audit-prototype"><img src="https://img.shields.io/badge/Strategy%20Audit%20Prototype-C850C0?style=for-the-badge" /></a>
       <br>Solidity on-chain audit · Hardhat · Strategy lifecycle compliance
     </td>
   </tr>
@@ -105,5 +105,5 @@
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Quantitative%20Investment%20|%20Alternative%20Data%20|%20Asset%20Pricing-0d47a1?style=for-the-badge&labelColor=0d47a1" />
+  <img src="https://img.shields.io/badge/Quantitative%20Investment%20|%20Alternative%20Data%20|%20Asset%20Pricing-4158D0?style=for-the-badge&labelColor=4158D0" />
 </div>
