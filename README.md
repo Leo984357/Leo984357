@@ -19,9 +19,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo984357&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide=issues" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo984357&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Leo984357&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170" />
+  <img src="https://img.shields.io/github/followers/Leo984357?style=flat-square&label=Followers&color=F85D7F&logo=github" />
+  <img src="https://img.shields.io/github/stars/Leo984357?style=flat-square&label=Stars&color=F85D7F&logo=github" />
+  <img src="https://img.shields.io/github/repos/Leo984357?style=flat-square&label=Public%20Repos&color=F85D7F&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Leo984357&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 </p>
 
 ---
@@ -29,19 +33,23 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,sqlite,latex,git,solidity,jupyter,md&theme=dark" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Python-F85D7F?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-F85D7F?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-F85D7F?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-F85D7F?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F85D7F?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-F85D7F?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F85D7F?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-F85D7F?style=flat-square&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/LightGBM-F85D7F?style=flat-square" />
   <img src="https://img.shields.io/badge/scikit--learn-F85D7F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pandas-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-F85D7F?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/QMT-F85D7F?style=flat-square" />
   <img src="https://img.shields.io/badge/Wind-F85D7F?style=flat-square" />
   <img src="https://img.shields.io/badge/CSMAR-F85D7F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Selenium-F85D7F?style=flat-square" />
-  <img src="https://img.shields.io/badge/PySide6-F85D7F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hardhat-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Selenium-F85D7F?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySide6-F85D7F?style=flat-square&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-F85D7F?style=flat-square&logo=hardhat&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-F85D7F?style=flat-square" />
   <img src="https://img.shields.io/badge/Multi--Factor-F85D7F?style=flat-square" />
 </p>
@@ -50,16 +58,49 @@
 
 ### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Leo984357/qmt_investment_assistant"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=qmt_investment_assistant&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
-  <a href="https://github.com/Leo984357/genai_china_replication"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=genai_china_replication&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
-  <a href="https://github.com/Leo984357/fund-pool-model"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=fund-pool-model&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
-  <a href="https://github.com/Leo984357/fund-pool-model-rewritten"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=fund-pool-model-rewritten&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
-  <a href="https://github.com/Leo984357/gamma-ai-exposure"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=gamma-ai-exposure&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
-  <a href="https://github.com/Leo984357/smart-fund"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=smart-fund&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
-  <a href="https://github.com/Leo984357/hs300-research-skeleton"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=hs300-research-skeleton&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
-  <a href="https://github.com/Leo984357/strategy-audit-prototype"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=strategy-audit-prototype&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #F85D7F33; border-radius: 6px; padding: 12px;">
+      <b><a href="https://github.com/Leo984357/qmt_investment_assistant">QMT Investment Assistant</a></b>
+      <br>HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘
+      <br><a href="https://github.com/Leo984357/qmt_investment_assistant/blob/main/METHODOLOGY.md">完整方法论 →</a>
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #F85D7F33; border-radius: 6px; padding: 12px;">
+      <b><a href="https://github.com/Leo984357/genai_china_replication">GenAI China Replication</a></b>
+      <br>7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #F85D7F33; border-radius: 6px; padding: 12px;">
+      <b><a href="https://github.com/Leo984357/fund-pool-model">Fund Pool Model</a></b>
+      <br>基金池构建 · 绩效归因 · 多维度筛选
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #F85D7F33; border-radius: 6px; padding: 12px;">
+      <b><a href="https://github.com/Leo984357/fund-pool-model-rewritten">Fund Pool Rewritten</a></b>
+      <br>重构版 · 架构优化 · 性能提升
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #F85D7F33; border-radius: 6px; padding: 12px;">
+      <b><a href="https://github.com/Leo984357/gamma-ai-exposure">Gamma AI Exposure</a></b>
+      <br>财报电话会议 NLP · 企业 AI 暴露度量
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #F85D7F33; border-radius: 6px; padding: 12px;">
+      <b><a href="https://github.com/Leo984357/smart-fund">Smart Fund</a></b>
+      <br>基金数据爬取 · 分析仪表盘 · PySide6
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #F85D7F33; border-radius: 6px; padding: 12px;">
+      <b><a href="https://github.com/Leo984357/hs300-research-skeleton">HS300 Research Skeleton</a></b>
+      <br>HS300 多因子研究骨架 · 回测框架
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #F85D7F33; border-radius: 6px; padding: 12px;">
+      <b><a href="https://github.com/Leo984357/strategy-audit-prototype">Strategy Audit Prototype</a></b>
+      <br>Solidity on-chain audit · Hardhat · Strategy lifecycle compliance
+    </td>
+  </tr>
+</table>
 
 ---
 
