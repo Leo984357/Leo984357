@@ -29,7 +29,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,sqlite,latex,git,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,sqlite,latex,git,solidity,jupyter,md&theme=dark" />
 </p>
 
 <p align="center">
@@ -42,55 +42,24 @@
   <img src="https://img.shields.io/badge/Selenium-F85D7F?style=flat-square" />
   <img src="https://img.shields.io/badge/PySide6-F85D7F?style=flat-square" />
   <img src="https://img.shields.io/badge/Hardhat-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multi--Factor-F85D7F?style=flat-square" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <b><a href="https://github.com/Leo984357/qmt_investment_assistant">QMT Investment Assistant</a></b>
-      <br>HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘
-      <br><a href="https://github.com/Leo984357/qmt_investment_assistant/blob/main/METHODOLOGY.md">完整方法论 →</a>
-    </td>
-    <td width="50%" align="center">
-      <b><a href="https://github.com/Leo984357/genai_china_replication">GenAI China Replication</a></b>
-      <br>7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b><a href="https://github.com/Leo984357/fund-pool-model">Fund Pool Model</a></b>
-      <br>基金池构建 · 绩效归因 · 多维度筛选
-    </td>
-    <td width="50%" align="center">
-      <b><a href="https://github.com/Leo984357/fund-pool-model-rewritten">Fund Pool Rewritten</a></b>
-      <br>重构版 · 架构优化 · 性能提升
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b><a href="https://github.com/Leo984357/gamma-ai-exposure">Gamma AI Exposure</a></b>
-      <br>财报电话会议 NLP · 企业 AI 暴露度量
-    </td>
-    <td width="50%" align="center">
-      <b><a href="https://github.com/Leo984357/smart-fund">Smart Fund</a></b>
-      <br>基金数据爬取 · 分析仪表盘 · PySide6
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b><a href="https://github.com/Leo984357/hs300-research-skeleton">HS300 Research Skeleton</a></b>
-      <br>HS300 多因子研究骨架 · 回测框架
-    </td>
-    <td width="50%" align="center">
-      <b><a href="https://github.com/Leo984357/strategy-audit-prototype">Strategy Audit Prototype</a></b>
-      <br>Solidity on-chain audit · Hardhat · Strategy lifecycle compliance
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Leo984357/qmt_investment_assistant"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=qmt_investment_assistant&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
+  <a href="https://github.com/Leo984357/genai_china_replication"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=genai_china_replication&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
+  <a href="https://github.com/Leo984357/fund-pool-model"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=fund-pool-model&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
+  <a href="https://github.com/Leo984357/fund-pool-model-rewritten"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=fund-pool-model-rewritten&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
+  <a href="https://github.com/Leo984357/gamma-ai-exposure"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=gamma-ai-exposure&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
+  <a href="https://github.com/Leo984357/smart-fund"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=smart-fund&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
+  <a href="https://github.com/Leo984357/hs300-research-skeleton"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=hs300-research-skeleton&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
+  <a href="https://github.com/Leo984357/strategy-audit-prototype"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo984357&repo=strategy-audit-prototype&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
+</p>
 
 ---
 
@@ -112,9 +81,3 @@
 
 **HS300 LightGBM Multi-Factor Strategy** — *First Prize, FinTech Diankuan Cup (Top 2%)*  
 81.87% cumulative return vs 11.87% benchmark (2022–2025). Live on QMT.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Leo984357/Leo984357/output/github-contribution-grid-snake-dark.svg" />
-</p>
