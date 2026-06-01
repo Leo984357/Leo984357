@@ -58,29 +58,52 @@
 
 <table>
   <tr>
-    <td width="50%"><b><font color="#F85D7F">QMT Investment Assistant</font></b>
-      <br>HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘
-      <br><a href="https://github.com/Leo984357/qmt_investment_assistant/blob/main/METHODOLOGY.md">完整方法论 →</a></td>
-    <td width="50%"><b><font color="#F85D7F">GenAI China Replication</font></b>
-      <br>7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价</td>
+    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
+      <b><font color="#F85D7F">QMT Investment Assistant</font></b><br>
+      <font color="#8b949e">HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘</font><br>
+      <font color="#F8D866">★</font> <font color="#8b949e">—</font> <font color="#F8D866">⑂</font> <font color="#8b949e">—</font> <font color="#8b949e">Python</font>
+    </td>
+    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
+      <b><font color="#F85D7F">GenAI China Replication</font></b><br>
+      <font color="#8b949e">7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价</font><br>
+      <font color="#F8D866">★</font> <font color="#8b949e">—</font> <font color="#F8D866">⑂</font> <font color="#8b949e">—</font> <font color="#8b949e">Python</font>
+    </td>
   </tr>
   <tr>
-    <td width="50%"><b><font color="#F85D7F">Fund Pool Model</font></b>
-      <br>基金池构建 · 绩效归因 · 多维度筛选</td>
-    <td width="50%"><b><font color="#F85D7F">Fund Pool Rewritten</font></b>
-      <br>重构版 · 架构优化 · 性能提升</td>
+    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
+      <b><font color="#F85D7F">Fund Pool Model</font></b><br>
+      <font color="#8b949e">基金池构建 · 绩效归因 · 多维度筛选</font><br>
+      <font color="#F8D866">★</font> <font color="#8b949e">—</font> <font color="#F8D866">⑂</font> <font color="#8b949e">—</font> <font color="#8b949e">Python</font>
+    </td>
+    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
+      <b><font color="#F85D7F">Fund Pool Rewritten</font></b><br>
+      <font color="#8b949e">重构版 · 架构优化 · 性能提升</font><br>
+      <font color="#F8D866">★</font> <font color="#8b949e">—</font> <font color="#F8D866">⑂</font> <font color="#8b949e">—</font> <font color="#8b949e">Python</font>
+    </td>
   </tr>
   <tr>
-    <td width="50%"><b><font color="#F85D7F">Gamma AI Exposure</font></b>
-      <br>财报电话会议 NLP · 企业 AI 暴露度量</td>
-    <td width="50%"><b><font color="#F85D7F">Smart Fund</font></b>
-      <br>基金数据爬取 · 分析仪表盘 · PySide6</td>
+    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
+      <b><font color="#F85D7F">Gamma AI Exposure</font></b><br>
+      <font color="#8b949e">财报电话会议 NLP · 企业 AI 暴露度量</font><br>
+      <font color="#F8D866">★</font> <font color="#8b949e">—</font> <font color="#F8D866">⑂</font> <font color="#8b949e">—</font> <font color="#8b949e">Python</font>
+    </td>
+    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
+      <b><font color="#F85D7F">Smart Fund</font></b><br>
+      <font color="#8b949e">基金数据爬取 · 分析仪表盘 · PySide6</font><br>
+      <font color="#F8D866">★</font> <font color="#8b949e">—</font> <font color="#F8D866">⑂</font> <font color="#8b949e">—</font> <font color="#8b949e">Python</font>
+    </td>
   </tr>
   <tr>
-    <td width="50%"><b><font color="#F85D7F">HS300 Research Skeleton</font></b>
-      <br>HS300 多因子研究骨架 · 回测框架</td>
-    <td width="50%"><b><font color="#F85D7F">Strategy Audit Prototype</font></b>
-      <br>Solidity on-chain audit · Hardhat · Strategy lifecycle compliance</td>
+    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
+      <b><font color="#F85D7F">HS300 Research Skeleton</font></b><br>
+      <font color="#8b949e">HS300 多因子研究骨架 · 回测框架</font><br>
+      <font color="#F8D866">★</font> <font color="#8b949e">—</font> <font color="#F8D866">⑂</font> <font color="#8b949e">—</font> <font color="#8b949e">Python</font>
+    </td>
+    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
+      <b><font color="#F85D7F">Strategy Audit Prototype</font></b><br>
+      <font color="#8b949e">Solidity on-chain audit · Hardhat · Strategy lifecycle</font><br>
+      <font color="#F8D866">★</font> <font color="#8b949e">—</font> <font color="#F8D866">⑂</font> <font color="#8b949e">—</font> <font color="#8b949e">Solidity</font>
+    </td>
   </tr>
 </table>
 
