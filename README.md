@@ -1,45 +1,48 @@
-<div align="center">
+<p align="center">
   <img src="assets/banner.svg" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&width=600&lines=Quantitative+Investment+%7C+Alternative+Data;ML-driven+trading+strategies+%7C+NLP+factor+models;LightGBM+Multi-Factor+Strategy+%E2%80%94+Live+on+QMT;First+Author+%E2%80%94+LLM+Exposure+Factor" />
-</div>
+</p>
 
-<div align="center">
-  <a href="mailto:leo2974656036@foxmail.com"><img src="https://img.shields.io/badge/Email-6b83a8?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Leo984357"><img src="https://img.shields.io/badge/GitHub-6b83a8?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://leo984357.github.io/"><img src="https://img.shields.io/badge/Website-6b83a8?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Guangzhou%2FShenzhen-6b83a8?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeo984357&label=Visitors&labelColor=6b83a8&countColor=%236b83a8" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&width=600&lines=Quantitative+Investment+%7C+Alternative+Data;ML-driven+trading+strategies+%7C+NLP+factor+models;LightGBM+Multi-Factor+Strategy+%E2%80%94+Live+on+QMT;First+Author+%E2%80%94+LLM+Exposure+Factor" />
+</p>
+
+<p align="center">
+  <a href="mailto:leo2974656036@foxmail.com"><img src="https://img.shields.io/badge/-Email-F85D7F?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Leo984357"><img src="https://img.shields.io/badge/-GitHub-F85D7F?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://leo984357.github.io/"><img src="https://img.shields.io/badge/-Website-F85D7F?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Guangzhou%2FShenzhen-F85D7F?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeo984357&label=Visitors&labelColor=1F222E&countColor=%23F85D7F" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo984357&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=6b83a8&text_color=c9d1d9&title_color=6b83a8&hide=issues" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo984357&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6b83a8&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo984357&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6b83a8&ring=6b83a8&fire=6b83a8&currStreakNum=c9d1d9&sideNums=c9d1d9" height="170" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo984357&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide=issues" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo984357&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo984357&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170" />
+</p>
 
 ---
 
 ### 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,sqlite,latex,git,solidity&theme=dark" />
-</div>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/LightGBM-6b83a8?style=flat-square&logo=lightgbm&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-6b83a8?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-6b83a8?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/QMT-6b83a8?style=flat-square&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wind-6b83a8?style=flat-square&logo=wind&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSMAR-6b83a8?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-6b83a8?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySide6-6b83a8?style=flat-square&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardhat-6b83a8?style=flat-square&logo=hardhat&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/LightGBM-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/scikit--learn-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/QMT-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wind-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/CSMAR-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Selenium-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/PySide6-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardhat-F85D7F?style=flat-square" />
+</p>
 
 ---
 
@@ -112,6 +115,6 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Leo984357/Leo984357/output/github-contribution-grid-snake-dark.svg" />
-</div>
+</p>
