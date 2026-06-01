@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leo984357&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide=issues" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo984357&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo984357&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Leo984357&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170" />
 </p>
 
 ---
