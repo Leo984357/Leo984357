@@ -1,109 +1,103 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&width=600&lines=Quantitative+Investment+%7C+Alternative+Data;ML-driven+trading+strategies+%7C+NLP+factor+models;LightGBM+Multi-Factor+Strategy+%E2%80%94+Live+on+QMT;First+Author+%E2%80%94+LLM+Exposure+Factor" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=Shuoren%20Li&fontSize=60&fontColor=fff&animation=fadeIn" width="100%" />
 </div>
+
+```yaml
+name: Shuoren Li
+location: Shenzhen / Guangzhou
+focus: Quantitative Investment · Alternative Data · Asset Pricing
+status: B.Eng Financial Engineering @ GDUFS (2022-2026)
+```
 
 <div align="center">
-  <a href="mailto:leo2974656036@foxmail.com"><img src="https://img.shields.io/badge/leo2974656036@foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Leo984357"><img src="https://img.shields.io/badge/github.com/Leo984357-4158D0?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Guangzhou%2FShenzhen-C850C0?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Leo984357.Leo984357&left_text=Visitors" />
+  <a href="https://github.com/Leo984357"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=58a6ff" /></a>
+  <a href="mailto:leo2974656036@foxmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff" /></a>
+  <a href="https://leo984357.github.io/"><img src="https://img.shields.io/badge/-Website-0d1117?style=flat-square&logo=google-chrome&logoColor=58a6ff" /></a>
+  <img src="https://img.shields.io/badge/dynamic/json?color=58a6ff&label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2FLeo984357%2Fprofile&style=flat-square" />
 </div>
 
-<br>
+---
 
-### Languages & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-4158D0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-4158D0?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4158D0?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-C850C0?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-C850C0?style=for-the-badge&logo=lightgbm&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-C850C0?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-C850C0?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FFCC70?style=for-the-badge&logo=git&logoColor=black" />
-  <img src="https://img.shields.io/badge/QMT-4158D0?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardhat-FFCC70?style=for-the-badge&logo=hardhat&logoColor=black" />
-  <img src="https://img.shields.io/badge/web3.py-C850C0?style=for-the-badge&logo=web3.js&logoColor=white" />
-</div>
-
-<div align="center">
-  <code>Wind</code> <code>CSMAR</code> <code>iFind</code> <code>AKShare</code> <code>Selenium</code> <code>PySide6</code> <code>SQLite</code> <code>Ethereum</code>
-</div>
-
-<br>
-
-### Projects
+### 📌 Featured Work
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/qmt_investment_assistant"><img src="https://img.shields.io/badge/QMT%20Investment%20Assistant-4158D0?style=for-the-badge" /></a>
-      <br>HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘 · <a href="https://github.com/Leo984357/qmt_investment_assistant/blob/main/METHODOLOGY.md">完整方法论 →</a>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Leo984357/genai_china_replication">GenAI China Replication</a></h3>
+      <p align="center">
+        <code>NLP Pipeline</code> <code>Asset Pricing</code> <code>7.5M Job Postings</code>
+      </p>
+      <p align="center">Firm-year LLM exposure factor (Ef) for Chinese A-shares. Semantic matching (bge-m3) · Event study · Fama-MacBeth · FF5</p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/genai_china_replication"><img src="https://img.shields.io/badge/GenAI%20China%20Replication-C850C0?style=for-the-badge" /></a>
-      <br>7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/fund-pool-model"><img src="https://img.shields.io/badge/Fund%20Pool%20Model-FFCC70?style=for-the-badge" /></a>
-      <br>基金池构建 · 绩效归因 · 多维度筛选
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/fund-pool-model-rewritten"><img src="https://img.shields.io/badge/Fund%20Pool%20Rewritten-4158D0?style=for-the-badge" /></a>
-      <br>重构版 · 架构优化 · 性能提升
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Leo984357/qmt_investment_assistant">QMT Investment Assistant</a></h3>
+      <p align="center">
+        <code>LightGBM</code> <code>Multi-Factor</code> <code>Live Trading</code>
+      </p>
+      <p align="center">HS300 multi-factor stock selection. +81.87% cumulative (2022-2025). First Prize, FinTech Diankuan Cup. Live on QMT.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/gamma-ai-exposure"><img src="https://img.shields.io/badge/Gamma%20AI%20Exposure-C850C0?style=for-the-badge" /></a>
-      <br>财报电话会议 NLP · 企业 AI 暴露度量
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Leo984357/fund-pool-model">Fund Pool Model</a></h3>
+      <p align="center">
+        <code>Mutual Fund</code> <code>Portfolio</code> <code>Backtesting</code>
+      </p>
+      <p align="center">Daily Chinese public fund selection with config-driven pipeline and GUI (PySide6).</p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/smart-fund"><img src="https://img.shields.io/badge/Smart%20Fund-FFCC70?style=for-the-badge" /></a>
-      <br>基金数据爬取 · 分析仪表盘 · PySide6
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/hs300-research-skeleton"><img src="https://img.shields.io/badge/HS300%20Research%20Skeleton-4158D0?style=for-the-badge" /></a>
-      <br>HS300 多因子研究骨架 · 回测框架
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Leo984357/strategy-audit-prototype"><img src="https://img.shields.io/badge/Strategy%20Audit%20Prototype-C850C0?style=for-the-badge" /></a>
-      <br>Solidity on-chain audit · Hardhat · Strategy lifecycle compliance
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Leo984357/gamma-ai-exposure">Gamma AI Exposure</a></h3>
+      <p align="center">
+        <code>NLP</code> <code>Earnings Calls</code> <code>AI Exposure</code>
+      </p>
+      <p align="center">NLP-based AI exposure from Chinese listed firm earnings call transcripts.</p>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-### Experience
+### 🛠 Tech Stack
 
-| | |
-|:---|---|
-| **Securities Times** · Research Intern | Shenzhen · Jul 2025 – Sep 2025 |
-| **China Foreign Trade Centre** · VIP Affairs Intern | Guangzhou · Sep 2025 – Nov 2025 |
-| **Tencent CSIG** · Operations Intern | Shenzhen · Jul 2024 – Aug 2024 |
-| **GDUFS** · B.Eng Financial Engineering | Guangzhou · 2022 – 2026 |
+| Category | Tools |
+|----------|-------|
+| **Languages** | Python · C · SQL · LaTeX · Solidity |
+| **ML / Quant** | LightGBM · scikit-learn · NumPy · Pandas |
+| **Data** | Wind · CSMAR · iFind · AKShare · Selenium |
+| **Infra** | Git · SQLite · PySide6 |
+| **Blockchain** | Solidity · Hardhat · web3.py · Ethereum |
 
-<br>
+---
 
-### Research
-
-**Corporate LLM Exposure Factor & Asset Pricing** — *First Author*  
-~7.5M job postings (2014–2024) → NLP pipeline → firm-year AI exposure factor (Ef) → Chinese A-share asset pricing.
-
-**HS300 LightGBM Multi-Factor Strategy** — *First Prize, FinTech Diankuan Cup (Top 2%)*  
-81.87% cumulative return vs 11.87% benchmark (2022–2025). Live on QMT.
-
-<br>
+### 📈 GitHub Stats
 
 <div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Quantitative%20Investment%20|%20Alternative%20Data%20|%20Asset%20Pricing-4158D0?style=for-the-badge&labelColor=4158D0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo984357&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo984357&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" />
+</div>
+
+---
+
+### 💼 Experience
+
+| Duration | Role | Company |
+|----------|------|---------|
+| Jul 2025 – Sep 2025 | Research Intern | Securities Times |
+| Sep 2025 – Nov 2025 | VIP Affairs Intern | China Foreign Trade Centre |
+| Jul 2024 – Aug 2024 | Operations Intern | Tencent CSIG |
+
+---
+
+### 📄 Research
+
+**[Corporate LLM Exposure Factor & Asset Pricing](https://github.com/Leo984357/genai_china_replication)** — *First Author*  
+~7.5M job postings → NLP pipeline (bge-m3, 240M task matches) → firm-year AI exposure (Ef) → Chinese A-share asset pricing with event studies, Fama-MacBeth, and calendar-time portfolios.
+
+**HS300 LightGBM Multi-Factor Strategy** — *First Prize, FinTech Diankuan Cup (Top 2%)*  
+81.87% cumulative return vs 11.87% benchmark (2022-2025). Live on QMT.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=120&section=footer" width="100%" />
 </div>
