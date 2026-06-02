@@ -39,16 +39,16 @@
   <img src="https://img.shields.io/badge/Solidity-F85D7F?style=flat-square&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F85D7F?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-F85D7F?style=flat-square&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/LightGBM-F85D7F?style=flat-square&logo=lightning&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F85D7F?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-F85D7F?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/QMT-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/QMT-F85D7F?style=flat-square&logo=tradingview&logoColor=white" />
   <img src="https://img.shields.io/badge/Wind-F85D7F?style=flat-square" />
-  <img src="https://img.shields.io/badge/CSMAR-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/CSMAR-F85D7F?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-F85D7F?style=flat-square&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/PySide6-F85D7F?style=flat-square&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardhat-F85D7F?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardhat-F85D7F?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-F85D7F?style=flat-square&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/Multi--Factor-F85D7F?style=flat-square" />
 </p>
 
