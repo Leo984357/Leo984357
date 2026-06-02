@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F85D7F?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-F85D7F?style=flat-square&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/LightGBM-F85D7F?style=flat-square" />
-  <img src="https://img.shields.io/badge/scikit--learn-F85D7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/scikit--learn-F85D7F?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-F85D7F?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/QMT-F85D7F?style=flat-square" />
   <img src="https://img.shields.io/badge/Wind-F85D7F?style=flat-square" />
