@@ -16,7 +16,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<img src="https://img.shields.io/badge/📊%20GitHub%20Stats-F85D7F?style=flat-square" />
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Leo984357?style=flat-square&label=Followers&color=F85D7F&logo=github" />
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠 Tech Stack
+<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-F85D7F?style=flat-square" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-F85D7F?style=flat-square&logo=python&logoColor=white" />
@@ -54,62 +54,55 @@
 
 ---
 
-### 📌 Featured Projects
+<img src="https://img.shields.io/badge/📌%20Featured%20Projects-F85D7F?style=flat-square" />
 
 <table>
   <tr>
-    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
-      <b><span style="color:#F85D7F">QMT Investment Assistant</span></b><br>
-      <span style="color:#8b949e">HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘</span><br>
-      <span style="color:#F8D866">★</span> <span style="color:#8b949e">—</span> <span style="color:#F8D866">⑂</span> <span style="color:#8b949e">—</span> <span style="color:#8b949e">Python</span>
+    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
+      <img src="https://img.shields.io/badge/QMT%20Investment%20Assistant-F85D7F?style=flat-square" /><br>
+      HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘<br>
+      <a href="https://github.com/Leo984357/qmt_investment_assistant/blob/main/METHODOLOGY.md">完整方法论 →</a>
     </td>
-    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
-      <b><span style="color:#F85D7F">GenAI China Replication</span></b><br>
-      <span style="color:#8b949e">7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价</span><br>
-      <span style="color:#F8D866">★</span> <span style="color:#8b949e">—</span> <span style="color:#F8D866">⑂</span> <span style="color:#8b949e">—</span> <span style="color:#8b949e">Python</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
-      <b><span style="color:#F85D7F">Fund Pool Model</span></b><br>
-      <span style="color:#8b949e">基金池构建 · 绩效归因 · 多维度筛选</span><br>
-      <span style="color:#F8D866">★</span> <span style="color:#8b949e">—</span> <span style="color:#F8D866">⑂</span> <span style="color:#8b949e">—</span> <span style="color:#8b949e">Python</span>
-    </td>
-    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
-      <b><span style="color:#F85D7F">Fund Pool Rewritten</span></b><br>
-      <span style="color:#8b949e">重构版 · 架构优化 · 性能提升</span><br>
-      <span style="color:#F8D866">★</span> <span style="color:#8b949e">—</span> <span style="color:#F8D866">⑂</span> <span style="color:#8b949e">—</span> <span style="color:#8b949e">Python</span>
+    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
+      <img src="https://img.shields.io/badge/GenAI%20China%20Replication-F85D7F?style=flat-square" /><br>
+      7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价
     </td>
   </tr>
   <tr>
-    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
-      <b><span style="color:#F85D7F">Gamma AI Exposure</span></b><br>
-      <span style="color:#8b949e">财报电话会议 NLP · 企业 AI 暴露度量</span><br>
-      <span style="color:#F8D866">★</span> <span style="color:#8b949e">—</span> <span style="color:#F8D866">⑂</span> <span style="color:#8b949e">—</span> <span style="color:#8b949e">Python</span>
+    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
+      <img src="https://img.shields.io/badge/Fund%20Pool%20Model-F85D7F?style=flat-square" /><br>
+      基金池构建 · 绩效归因 · 多维度筛选
     </td>
-    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
-      <b><span style="color:#F85D7F">Smart Fund</span></b><br>
-      <span style="color:#8b949e">基金数据爬取 · 分析仪表盘 · PySide6</span><br>
-      <span style="color:#F8D866">★</span> <span style="color:#8b949e">—</span> <span style="color:#F8D866">⑂</span> <span style="color:#8b949e">—</span> <span style="color:#8b949e">Python</span>
+    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
+      <img src="https://img.shields.io/badge/Fund%20Pool%20Rewritten-F85D7F?style=flat-square" /><br>
+      重构版 · 架构优化 · 性能提升
     </td>
   </tr>
   <tr>
-    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
-      <b><span style="color:#F85D7F">HS300 Research Skeleton</span></b><br>
-      <span style="color:#8b949e">HS300 多因子研究骨架 · 回测框架</span><br>
-      <span style="color:#F8D866">★</span> <span style="color:#8b949e">—</span> <span style="color:#F8D866">⑂</span> <span style="color:#8b949e">—</span> <span style="color:#8b949e">Python</span>
+    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
+      <img src="https://img.shields.io/badge/Gamma%20AI%20Exposure-F85D7F?style=flat-square" /><br>
+      财报电话会议 NLP · 企业 AI 暴露度量
     </td>
-    <td width="50%" style="border:1px solid #333; border-radius:8px; padding:16px">
-      <b><span style="color:#F85D7F">Strategy Audit Prototype</span></b><br>
-      <span style="color:#8b949e">Solidity on-chain audit · Hardhat · Strategy lifecycle</span><br>
-      <span style="color:#F8D866">★</span> <span style="color:#8b949e">—</span> <span style="color:#F8D866">⑂</span> <span style="color:#8b949e">—</span> <span style="color:#8b949e">Solidity</span>
+    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
+      <img src="https://img.shields.io/badge/Smart%20Fund-F85D7F?style=flat-square" /><br>
+      基金数据爬取 · 分析仪表盘 · PySide6
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
+      <img src="https://img.shields.io/badge/HS300%20Research%20Skeleton-F85D7F?style=flat-square" /><br>
+      HS300 多因子研究骨架 · 回测框架
+    </td>
+    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
+      <img src="https://img.shields.io/badge/Strategy%20Audit%20Prototype-F85D7F?style=flat-square" /><br>
+      Solidity on-chain audit · Hardhat · Strategy lifecycle
     </td>
   </tr>
 </table>
 
 ---
 
-### 💼 Experience
+<img src="https://img.shields.io/badge/💼%20Experience-F85D7F?style=flat-square" />
 
 | | |
 |:---|---|
@@ -120,10 +113,10 @@
 
 ---
 
-### 📄 Research
+<img src="https://img.shields.io/badge/📄%20Research-F85D7F?style=flat-square" />
 
-<span style="color:#F85D7F"><b>Corporate LLM Exposure Factor & Asset Pricing</b></span> — *First Author*  
+**Corporate LLM Exposure Factor & Asset Pricing** — *First Author*  
 ~7.5M job postings (2014–2024) → NLP pipeline → firm-year AI exposure factor (Ef) → Chinese A-share asset pricing.
 
-<span style="color:#F85D7F"><b>HS300 LightGBM Multi-Factor Strategy</b></span> — *First Prize, FinTech Diankuan Cup (Top 2%)*  
+**HS300 LightGBM Multi-Factor Strategy** — *First Prize, FinTech Diankuan Cup (Top 2%)*  
 81.87% cumulative return vs 11.87% benchmark (2022–2025). Live on QMT.
