@@ -11,101 +11,68 @@
   <a href="https://github.com/Leo984357"><img src="https://img.shields.io/badge/-GitHub-F85D7F?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://leo984357.github.io/"><img src="https://img.shields.io/badge/-Website-F85D7F?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Guangzhou%2FShenzhen-F85D7F?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Leo984357?style=flat-square&label=Followers&color=8b949e&logo=github" />
+  <img src="https://img.shields.io/github/stars/Leo984357?style=flat-square&label=Stars&color=F8D866&logo=github" />
+  <img src="https://img.shields.io/github/repos/Leo984357?style=flat-square&label=Public%20Repos&color=F85D7F&logo=github" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Leo984357&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <br>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeo984357&label=Visitors&labelColor=1F222E&countColor=%23F85D7F" />
 </p>
 
 ---
 
-<img src="https://img.shields.io/badge/📊%20GitHub%20Stats-F85D7F?style=flat-square" />
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Leo984357?style=flat-square&label=Followers&color=F85D7F&logo=github" />
-  <img src="https://img.shields.io/github/stars/Leo984357?style=flat-square&label=Stars&color=F85D7F&logo=github" />
-  <img src="https://img.shields.io/github/repos/Leo984357?style=flat-square&label=Public%20Repos&color=F85D7F&logo=github" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Leo984357&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</p>
+**Languages & Core**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
 
----
+**ML & Data Science**  
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/LightGBM-F85D7F?style=flat-square&logo=lightning&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-8b949e?style=flat-square&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 
-<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-F85D7F?style=flat-square" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-F85D7F?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-F85D7F?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-F85D7F?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-F85D7F?style=flat-square&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F85D7F?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-F85D7F?style=flat-square&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F85D7F?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-F85D7F?style=flat-square&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-F85D7F?style=flat-square&logo=lightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F85D7F?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-F85D7F?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/QMT-F85D7F?style=flat-square&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wind-F85D7F?style=flat-square" />
-  <img src="https://img.shields.io/badge/CSMAR-F85D7F?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-F85D7F?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySide6-F85D7F?style=flat-square&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardhat-F85D7F?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-F85D7F?style=flat-square&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Factor-F85D7F?style=flat-square" />
-</p>
+**Tools & Platforms**  
+<img src="https://img.shields.io/badge/QMT-8b949e?style=flat-square&logo=tradingview&logoColor=white" />
+<img src="https://img.shields.io/badge/Wind-8b949e?style=flat-square" />
+<img src="https://img.shields.io/badge/CSMAR-8b949e?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardhat-8b949e?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Factor-8b949e?style=flat-square" />
 
 ---
 
-<img src="https://img.shields.io/badge/📌%20Featured%20Projects-F85D7F?style=flat-square" />
-
-<table>
-  <tr>
-    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
-      <img src="https://img.shields.io/badge/QMT%20Investment%20Assistant-F85D7F?style=flat-square" /><br>
-      HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘<br>
-      <a href="https://github.com/Leo984357/qmt_investment_assistant/blob/main/METHODOLOGY.md">完整方法论 →</a>
-    </td>
-    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
-      <img src="https://img.shields.io/badge/GenAI%20China%20Replication-F85D7F?style=flat-square" /><br>
-      7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
-      <img src="https://img.shields.io/badge/Fund%20Pool%20Model-F85D7F?style=flat-square" /><br>
-      基金池构建 · 绩效归因 · 多维度筛选
-    </td>
-    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
-      <img src="https://img.shields.io/badge/Fund%20Pool%20Rewritten-F85D7F?style=flat-square" /><br>
-      重构版 · 架构优化 · 性能提升
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
-      <img src="https://img.shields.io/badge/Gamma%20AI%20Exposure-F85D7F?style=flat-square" /><br>
-      财报电话会议 NLP · 企业 AI 暴露度量
-    </td>
-    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
-      <img src="https://img.shields.io/badge/Smart%20Fund-F85D7F?style=flat-square" /><br>
-      基金数据爬取 · 分析仪表盘 · PySide6
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
-      <img src="https://img.shields.io/badge/HS300%20Research%20Skeleton-F85D7F?style=flat-square" /><br>
-      HS300 多因子研究骨架 · 回测框架
-    </td>
-    <td width="50%" style="border:1px solid #ddd; border-radius:8px; padding:12px">
-      <img src="https://img.shields.io/badge/Strategy%20Audit%20Prototype-F85D7F?style=flat-square" /><br>
-      Solidity on-chain audit · Hardhat · Strategy lifecycle
-    </td>
-  </tr>
-</table>
-
----
-
-<img src="https://img.shields.io/badge/💼%20Experience-F85D7F?style=flat-square" />
+## 📌 Featured Projects
 
 | | |
-|:---|---|
+|---|---|
+| **QMT Investment Assistant**<br>HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘<br>[完整方法论 →](https://github.com/Leo984357/qmt_investment_assistant/blob/main/METHODOLOGY.md) | **GenAI China Replication**<br>7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价 |
+| **Fund Pool Model**<br>基金池构建 · 绩效归因 · 多维度筛选 | **Fund Pool Rewritten**<br>重构版 · 架构优化 · 性能提升 |
+| **Gamma AI Exposure**<br>财报电话会议 NLP · 企业 AI 暴露度量 | **Smart Fund**<br>基金数据爬取 · 分析仪表盘 · PySide6 |
+| **HS300 Research Skeleton**<br>HS300 多因子研究骨架 · 回测框架 | **Strategy Audit Prototype**<br>Solidity on-chain audit · Hardhat · Strategy lifecycle |
+
+---
+
+## 💼 Experience
+
+| | |
+|---|---|
 | **Securities Times** · Research Intern | Shenzhen · Jul 2025 – Sep 2025 |
 | **China Foreign Trade Centre** · VIP Affairs Intern | Guangzhou · Sep 2025 – Nov 2025 |
 | **Tencent CSIG** · Operations Intern | Shenzhen · Jul 2024 – Aug 2024 |
@@ -113,7 +80,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/📄%20Research-F85D7F?style=flat-square" />
+## 📄 Research
 
 **Corporate LLM Exposure Factor & Asset Pricing** — *First Author*  
 ~7.5M job postings (2014–2024) → NLP pipeline → firm-year AI exposure factor (Ef) → Chinese A-share asset pricing.
