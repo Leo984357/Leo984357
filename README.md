@@ -63,9 +63,9 @@
 | | |
 |---|---|
 | **QMT Investment Assistant**<br>HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘<br>[完整方法论 →](https://github.com/Leo984357/qmt_investment_assistant/blob/main/METHODOLOGY.md) | **GenAI China Replication**<br>7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价 |
-| **Fund Pool Model**<br>基金池构建 · 绩效归因 · 多维度筛选 | **Fund Pool Rewritten**<br>重构版 · 架构优化 · 性能提升 |
-| **Gamma AI Exposure**<br>财报电话会议 NLP · 企业 AI 暴露度量 | **Smart Fund**<br>基金数据爬取 · 分析仪表盘 · PySide6 |
-| **HS300 Research Skeleton**<br>HS300 多因子研究骨架 · 回测框架 | **Strategy Audit Prototype**<br>Solidity on-chain audit · Hardhat · Strategy lifecycle |
+| **Fund Pool Model**<br>公募基金日度评分 · 选基 · 权重生成 · GUI | **Quant Apply**<br>量化求职自动化 · Boss直聘 CLI · ATS 追踪 |
+| **QMT Trading Strategy**<br>QMT 策略 · 含回测与执行模块 | **Strategy Audit Prototype**<br>策略审计 · 合规检查器 · 原型 |
+| | |
 
 ---
 
