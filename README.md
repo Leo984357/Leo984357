@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&width=600&lines=Quantitative+Investment+%7C+Alternative+Data;ML-driven+trading+strategies+%7C+NLP+factor+models;LightGBM+Multi-Factor+Strategy+%E2%80%94+Live+on+QMT;First+Author+%E2%80%94+LLM+Exposure+Factor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&width=600&lines=Quantitative+Investment+%7C+Alternative+Data;ML-driven+trading+strategies+%7C+NLP+factor+models;LightGBM+Multi-Factor+Strategy+%E2%80%94+Live+on+QMT;LLM+Exposure+Factor" />
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@
 
 ## 📄 Research
 
-**Corporate LLM Exposure Factor & Asset Pricing** — *First Author*  
+**Corporate LLM Exposure Factor & Asset Pricing**<br>
 ~7.5M job postings (2014–2024) → NLP pipeline → firm-year AI exposure factor (Ef) → Chinese A-share asset pricing.
 
 **HS300 LightGBM Multi-Factor Strategy** — *First Prize, FinTech Diankuan Cup (Top 2%)*  
