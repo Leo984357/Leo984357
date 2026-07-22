@@ -73,6 +73,7 @@
 
 | | |
 |---|---|
+| **Huatai Securities** · Institutional Business Intern | Guangzhou · Jul 2026 – Present |
 | **Securities Times** · Research Intern | Shenzhen · Jul 2025 – Sep 2025 |
 | **China Foreign Trade Centre** · VIP Affairs Intern | Guangzhou · Sep 2025 – Nov 2025 |
 | **Tencent CSIG** · Operations Intern | Shenzhen · Jul 2024 – Aug 2024 |
