@@ -65,7 +65,7 @@
 | **QMT Investment Assistant**<br>HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘<br>[完整方法论 →](https://github.com/Leo984357/qmt_investment_assistant/blob/main/METHODOLOGY.md) | **GenAI China Replication**<br>7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价 |
 | **Fund Pool Model**<br>公募基金日度评分 · 选基 · 权重生成 · GUI | **Quant Apply**<br>量化求职自动化 · Boss直聘 CLI · ATS 追踪 |
 | **QMT Trading Strategy**<br>QMT 策略 · 含回测与执行模块 | **Strategy Audit Prototype**<br>策略审计 · 合规检查器 · 原型 |
-| **Hidden Pairs Factor**<br>隐形重仓对因子挖掘 · QMT 适配 · 可视化 | |
+| **Hidden Pairs Factor**<br>隐形重仓对因子挖掘 · QMT 适配 · 可视化 | **A-Share Event Opportunity Engine**<br>公告事件状态机 · 证据链 · 券商业务机会识别<br>[查看项目 →](https://github.com/Leo984357/ashare-event-opportunity-engine) |
 
 ---
 
