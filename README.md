@@ -60,12 +60,14 @@
 
 ## 📌 Featured Projects
 
-| | |
+| Direction | Canonical projects |
 |---|---|
-| **QMT Investment Assistant**<br>HS300 量化交易 · LightGBM 多因子模型 · QMT 实盘<br>[完整方法论 →](https://github.com/Leo984357/qmt_investment_assistant/blob/main/METHODOLOGY.md) | **GenAI China Replication**<br>7.5M 招聘 NLP · A 股 AI 暴露因子 · 资产定价 |
-| **Fund Pool Model**<br>公募基金日度评分 · 选基 · 权重生成 · GUI | **Quant Apply**<br>量化求职自动化 · Boss直聘 CLI · ATS 追踪 |
-| **QMT Trading Strategy**<br>QMT 策略 · 含回测与执行模块 | **Strategy Audit Prototype**<br>策略审计 · 合规检查器 · 原型 |
-| **Hidden Pairs Factor**<br>隐形重仓对因子挖掘 · QMT 适配 · 可视化 | **A-Share Event Opportunity Engine**<br>公告事件状态机 · 证据链 · 券商业务机会识别<br>[查看项目 →](https://github.com/Leo984357/ashare-event-opportunity-engine) |
+| **Quant Research & Trading** | **[QMT Investment Assistant](https://github.com/Leo984357/qmt_investment_assistant)** — HS300 多因子研究、LightGBM / Ridge、回测与 QMT 实盘<br>**[Hidden Pairs Factor](https://github.com/Leo984357/hidden-pairs-factor)** — 从基金隐形重仓关系挖掘股票因子 |
+| **Mutual Fund Research** | **[Mutual Fund Research Skill](https://github.com/Leo984357/mutual-fund-research-skill)** — 从截图与持仓材料到联网核验、基金诊断、组合分析和动态换仓比较<br>**[Fund Pool Model](https://github.com/Leo984357/fund-pool-model)** — 公募基金横截面评分、日度选基与组合权重生成 |
+| **Capital-Market Research Infrastructure** | **[A-Share Event Opportunity Engine](https://github.com/Leo984357/ashare-event-opportunity-engine)** — 将公告链接为资本事件，追踪状态与证据链<br>**[Strategy Audit Prototype](https://github.com/Leo984357/strategy-audit-prototype)** — 量化研究生命周期的可追溯审计原型 |
+
+Archived predecessors and supporting utilities are intentionally omitted here; each direction points to
+its current public implementation.
 
 ---
 
