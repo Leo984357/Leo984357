@@ -1,22 +1,37 @@
-<div align="center">
-  <br>
-  <h1>Shuoren Li</h1>
-  <p>
-    <b>Quantitative Investment · Alternative Data · Asset Pricing</b>
-  </p>
-  <p>
-    Financial Engineering @ GDUFS &nbsp;·&nbsp; Guangzhou / Shenzhen
-  </p>
-  <p>
-    <sub>多因子策略 &nbsp;·&nbsp; NLP 另类因子 &nbsp;·&nbsp; 数据工程 &nbsp;·&nbsp; QMT 实盘</sub>
-  </p>
-  <p>
-    <a href="mailto:leo2974656036@foxmail.com">Email</a> &nbsp;·&nbsp;
-    <a href="https://github.com/Leo984357">GitHub</a> &nbsp;·&nbsp;
-    <a href="https://leo984357.github.io/">Website</a>
-  </p>
-  <br>
-</div>
+```text
+$ whoami
+   __       ____    _____
+  /\ \     /\  _`\ /\  __`\
+  \ \ \    \ \ \L\_\ \ \/\ \
+   \ \ \  __\ \  _\L\ \ \ \ \
+    \ \ \L\ \\ \ \L\ \ \ \_\ \
+     \ \____/ \ \____/\ \_____\
+      \/___/   \/___/  \/_____/
+
+  Shuoren Li
+  Quantitative Investment · Alternative Data · Asset Pricing
+  Financial Engineering @ GDUFS · Guangzhou / Shenzhen
+
+$ cat focus.txt
+  多因子策略 · NLP 另类因子 · 数据工程 · QMT 实盘
+
+$ ls ~/projects
+  qmt_investment_assistant/     HS300 多因子 · LightGBM · 回测与实盘
+  listed-company-wealth/        公告采集 → 关系网络 → 离线工作台   ★ NEW
+  ashare-event-opportunity/     公告资本事件状态机
+  mutual-fund-research-skill/   基金研究 Agent
+  fund-pool-model/              日度选基与组合权重
+  hidden-pairs-factor/          基金隐形重仓 Alpha 因子
+
+$ ./contact.sh
+  → Email · GitHub · Website 见下方链接
+```
+
+<p align="center">
+  <a href="mailto:leo2974656036@foxmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Leo984357">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://leo984357.github.io/">Website</a>
+</p>
 
 ---
 
