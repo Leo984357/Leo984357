@@ -65,6 +65,7 @@
 | **Quant Research & Trading** | **[QMT Investment Assistant](https://github.com/Leo984357/qmt_investment_assistant)** — HS300 多因子研究、LightGBM / Ridge、回测与 QMT 实盘<br>**[Hidden Pairs Factor](https://github.com/Leo984357/hidden-pairs-factor)** — 从基金隐形重仓关系挖掘股票因子 |
 | **Mutual Fund Research** | **[Mutual Fund Research Skill](https://github.com/Leo984357/mutual-fund-research-skill)** — 从截图与持仓材料到联网核验、基金诊断、组合分析和动态换仓比较<br>**[Fund Pool Model](https://github.com/Leo984357/fund-pool-model)** — 公募基金横截面评分、日度选基与组合权重生成 |
 | **Capital-Market Research Infrastructure** | **[A-Share Event Opportunity Engine](https://github.com/Leo984357/ashare-event-opportunity-engine)** — 将公告链接为资本事件，追踪状态与证据链<br>**[Strategy Audit Prototype](https://github.com/Leo984357/strategy-audit-prototype)** — 量化研究生命周期的可追溯审计原型 |
+| **Wealth-Management Data Engineering** | **[Listed-Company Wealth Framework](https://github.com/Leo984357/listed-company-wealth-framework)** — 上市公司委托理财行为数据库：公开公告自动采集 → PDF 结构化抽取 → 公司-机构五层关系网络 → 单文件离线分析工作台（含脱敏样例） |
 
 Archived predecessors and supporting utilities are intentionally omitted here; each direction points to
 its current public implementation.
