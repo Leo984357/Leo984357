@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="mona-lisa.png" width="420" alt="Mona Lisa rendered in colored ASCII" />
-</p>
+
 
 <p align="center">
   <img src="assets/banner.svg" width="100%" />
@@ -18,7 +16,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="mona-lisa.png" width="420" alt="Mona Lisa rendered in colored ASCII" />
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">
