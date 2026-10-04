@@ -1,6 +1,11 @@
 <picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/starry-night-ascii.svg">
+  <img src="assets/starry-night-ascii.gif" width="100%" alt="彩色 ASCII 星月夜：星空光带与旋涡缓缓流动，月亮静悬。">
+</picture>
+
+<picture>
   <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg">
-  <img src="assets/profile-hero.svg" width="100%" alt="Shuoren Li 李硕仁 · 金融工程 @ GDUFS · 量化研究与金融数据工程 · 彩色 ASCII 星月夜">
+  <img src="assets/profile-hero.svg" width="100%" alt="Shuoren Li 李硕仁 · 金融工程 @ GDUFS · 量化研究与金融数据工程">
 </picture>
 
 <p align="center">
@@ -96,4 +101,4 @@
 
 </details>
 
-<sub>ASCII art after Vincent van Gogh’s <i>The Starry Night</i> (1889). [画作来源与生成方式](assets/ARTWORK.md) · [SVG 源码](scripts/build_profile_visuals.py)</sub>
+<sub>ASCII art after Vincent van Gogh’s <i>The Starry Night</i> (1889). [静态版](assets/starry-night-ascii.svg) · [画作来源与生成方式](assets/ARTWORK.md) · [SVG 源码](scripts/build_profile_visuals.py)</sub>

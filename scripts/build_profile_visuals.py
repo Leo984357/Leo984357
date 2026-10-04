@@ -2,7 +2,6 @@
 from pathlib import Path
 from html import escape
 import base64
-import re
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / 'assets'
@@ -24,35 +23,31 @@ def flat_tag(x,y,s,color=ACCENT,w=None):
     width=w or len(s)*10+28
     return rect(x,y,width,32,BG,2,LINE)+text(x+14,y+22,s,14,color,500,MONO)
 
-ascii_svg=(ASSETS/'starry-night-ascii.svg').read_text()
-art=re.sub(r'^.*?<rect', '<rect', ascii_svg, count=1, flags=re.S).rsplit('</svg>',1)[0]
-# Artwork itself remains a literal grid of colored ASCII glyphs.
+# The animated ASCII banner is a separate README picture. Keep this identity
+# panel compact so the artwork appears only once and can honor reduced motion.
 for mobile in (False,True):
-    w,h=(600,630) if mobile else (1200,696)
-    scale=w/1600
+    w,h=(600,398) if mobile else (1200,280)
     b=rect(0,0,w,43,PANEL)
     b+=pixel(23,22,7,MUTED)+pixel(39,22,7,LINE)+pixel(55,22,7,LINE)
     b+=label(78,27,'shuoren / research',MUTED,13)
-    b+=f'<g transform="translate(0 44) scale({scale})">{art}</g>'
     if mobile:
-        b+=label(28,292,'QUANT / DATA / CODE',ACCENT,16)
-        b+=text(23,365,'SHUOREN',67,INK,600)
-        b+=text(23,432,'LI.',78,INK,600)
-        b+=text(183,422,'李硕仁',29,ACCENT,500)
-        b+=text(28,478,'把金融问题，写成研究与工具。',25,INK,500)
-        b+=text(28,518,'金融工程 @ 广东外语外贸大学',20,MUTED)
-        b+=line(28,550,572,550)
-        b+=label(28,586,'ALTERNATIVE DATA / ASSET PRICING',MUTED,13)
+        b+=label(28,90,'QUANT / DATA / CODE',ACCENT,16)
+        b+=text(23,157,'SHUOREN',67,INK,600)
+        b+=text(23,224,'LI.',78,INK,600)
+        b+=text(183,214,'李硕仁',29,ACCENT,500)
+        b+=text(28,270,'把金融问题，写成研究与工具。',25,INK,500)
+        b+=text(28,310,'金融工程 @ 广东外语外贸大学',20,MUTED)
+        b+=line(28,342,572,342)
+        b+=label(28,378,'ALTERNATIVE DATA / ASSET PRICING',MUTED,13)
     else:
-        # Keep the complete ASCII grid above a separate, flat text area.
-        b+=label(36,504,'QUANTITATIVE RESEARCH × DATA ENGINEERING',ACCENT,16)
-        b+=text(30,604,'SHUOREN LI.',92,INK,600)
-        b+=text(820,554,'李硕仁',32,ACCENT,500)
-        b+=text(820,592,'金融工程 @ GDUFS',21,MUTED)
-        b+=line(36,630,1164,630)
-        b+=text(36,671,'把金融问题，写成研究与工具。',24,INK)
-        b+=label(772,669,'ALTERNATIVE DATA / ASSET PRICING',MUTED,12)
-    save('profile-hero'+('-mobile' if mobile else '')+'.svg',w,h,b,'Shuoren Li 李硕仁 · Quant research and data engineering · The Starry Night in colored ASCII')
+        b+=label(36,92,'QUANTITATIVE RESEARCH × DATA ENGINEERING',ACCENT,16)
+        b+=text(30,184,'SHUOREN LI.',92,INK,600)
+        b+=text(820,134,'李硕仁',32,ACCENT,500)
+        b+=text(820,172,'金融工程 @ GDUFS',21,MUTED)
+        b+=line(36,216,1164,216)
+        b+=text(36,258,'把金融问题，写成研究与工具。',24,INK)
+        b+=label(772,256,'ALTERNATIVE DATA / ASSET PRICING',MUTED,12)
+    save('profile-hero'+('-mobile' if mobile else '')+'.svg',w,h,b,'Shuoren Li 李硕仁 · Quant research and data engineering')
 
 for name,title,subtitle,color in [('nav-portfolio.svg','ENTER THE LAB','互动作品集',ACCENT),('nav-email.svg','SAY HELLO','联系我',ACCENT),('nav-source.svg','EXPLORE CODE','浏览项目',ACCENT)]:
     b=rect(1,1,394,76,PANEL,2,LINE)+text(22,32,title,19,INK,700,MONO)+text(22,58,subtitle,15,MUTED)+text(353,46,'↗',29,color)
