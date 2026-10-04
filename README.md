@@ -1,68 +1,99 @@
-<p><img src="assets/starry-night-banner.svg" width="100%" alt="梵高《星月夜》——星空局部横幅" /></p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg">
+  <img src="assets/profile-hero.svg" width="100%" alt="Shuoren Li 李硕仁 · 金融工程 @ GDUFS · 量化研究与金融数据工程 · 彩色 ASCII 星月夜">
+</picture>
 
-# Shuoren Li · 李硕仁
+<p align="center">
+  <a href="https://leo984357.github.io/"><picture><source media="(max-width: 600px)" srcset="assets/nav-portfolio-mobile.svg"><img src="assets/nav-portfolio.svg" width="32%" alt="进入互动作品集"></picture></a>
+  <a href="mailto:leo2974656036@foxmail.com"><picture><source media="(max-width: 600px)" srcset="assets/nav-email-mobile.svg"><img src="assets/nav-email.svg" width="32%" alt="邮件联系李硕仁"></picture></a>
+  <a href="https://github.com/Leo984357?tab=repositories"><picture><source media="(max-width: 600px)" srcset="assets/nav-source-mobile.svg"><img src="assets/nav-source.svg" width="32%" alt="浏览全部代码仓库"></picture></a>
+</p>
 
-**金融研究，落到数据与工具。**
+<picture><source media="(max-width: 600px)" srcset="assets/section-work-mobile.svg"><img src="assets/section-work.svg" width="100%" alt="精选项目 / Selected work"></picture>
 
-广东外语外贸大学金融工程在读。我围绕量化投资、另类数据与资产定价开展研究，把分散的金融信息整理成可追溯的数据、可检验的实验和可使用的工具。
+<a href="https://github.com/Leo984357/listed-company-wealth-framework">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-wealth-mobile.svg">
+  <img src="assets/project-wealth.svg" width="100%" alt="委托理财分析框架：公开公告→交易记录→机构关系。16家公司、4372条交易、314家机构的脱敏样例，点击查看真实工作台。">
+</picture>
+</a>
 
-[个人作品集](https://leo984357.github.io/) · [Email](mailto:leo2974656036@foxmail.com)
+<a href="https://github.com/Leo984357/qmt_investment_assistant">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-qmt-mobile.svg">
+  <img src="assets/project-qmt.svg" width="100%" alt="QMT Investment Assistant：LightGBM / Ridge、配置化实验、成本后回测与模拟执行，点击查看方法与代码。">
+</picture>
+</a>
 
-## 精选项目
+<a href="https://github.com/Leo984357/mutual-fund-research-skill">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-fund-mobile.svg">
+  <img src="assets/project-fund.svg" width="100%" alt="公募基金投研 Skill：材料识别、公开核验、收益风险计算与报告，点击查看安装和完整示例。">
+</picture>
+</a>
 
-### 01 / 上市公司委托理财分析框架
+<picture><source media="(max-width: 600px)" srcset="assets/section-index-mobile.svg"><img src="assets/section-index.svg" width="100%" alt="研究与工具索引"></picture>
 
-**从公开公告到结构化交易、机构关系与离线工作台。**
+<a href="https://github.com/Leo984357/ashare-event-opportunity-engine">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/index-event-mobile.svg">
+  <img src="assets/index-event.svg" width="100%" alt="资本事件引擎 · 公告关联、状态迁移与证据链">
+</picture>
+</a>
 
-覆盖公告采集、规则抽取、产品生命周期、公司—机构关系和数据质量核验。公开版提供脱敏样例，可以本地启动工作台，查看公司画像、资金流向和原文证据。
+<a href="https://github.com/Leo984357/hidden-pairs-factor">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/index-hidden-mobile.svg">
+  <img src="assets/index-hidden.svg" width="100%" alt="Hidden Pairs Factor · 持仓关系、时间切分与负结果诊断">
+</picture>
+</a>
 
-[查看项目与界面预览 →](https://github.com/Leo984357/listed-company-wealth-framework)
+<a href="https://github.com/Leo984357/fund-pool-model">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/index-pool-mobile.svg">
+  <img src="assets/index-pool.svg" width="100%" alt="Fund Pool Model · 净值入库、评分、权重与日报">
+</picture>
+</a>
 
-### 02 / QMT Investment Assistant
+<a href="https://github.com/Leo984357/strategy-audit-prototype">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/index-audit-mobile.svg">
+  <img src="assets/index-audit.svg" width="100%" alt="Strategy Audit · Solidity / Hardhat 研究存证原型">
+</picture>
+</a>
 
-**从多因子研究到模型训练、回测评估与模拟执行。**
+<a href="https://github.com/Leo984357/remote-workflow-framework">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/index-remote-mobile.svg">
+  <img src="assets/index-remote.svg" width="100%" alt="多机协作工作流 · 任务路由、计算与备份">
+</picture>
+</a>
 
-以沪深 300 为研究场景，组织 LightGBM / Ridge 实验、组合构建、交易成本和阶段化评审。当前公开实现提供研究与模拟执行；方法、配置和研究记录在仓库内提供。
+<a href="https://leo984357.github.io/#about">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/index-about-mobile.svg">
+  <img src="assets/index-about.svg" width="100%" alt="研究与经历 · 另类数据、AI暴露与资产定价">
+</picture>
+</a>
 
-[查看研究流程与运行说明 →](https://github.com/Leo984357/qmt_investment_assistant)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-tools-mobile.svg">
+  <img src="assets/profile-tools.svg" width="100%" alt="工具：Python / SQL / LightGBM / pandas / scikit-learn / SQLite / Git / LaTeX。广东外语外贸大学金融工程在读。">
+</picture>
 
-### 03 / 公募基金投研 Skill
+<details>
+<summary>文字索引 / Accessible project index</summary>
 
-**把基金代码、持仓清单和截图，整理成有来源的投研报告。**
+**Shuoren Li · 李硕仁**，广东外语外贸大学金融工程在读。关注量化投资、另类数据与资产定价，把研究问题转化为可复核的实验与工具。
 
-连接材料识别、公开数据核验、收益风险计算、组合暴露与换仓比较，提供安装步骤、示例提问，以及可复现的合成净值案例。
+- [上市公司委托理财分析框架](https://github.com/Leo984357/listed-company-wealth-framework)：公告采集、交易抽取、机构关系和离线工作台。
+- [QMT Investment Assistant](https://github.com/Leo984357/qmt_investment_assistant)：因子研究、成本后回测与模拟执行。
+- [公募基金投研 Skill](https://github.com/Leo984357/mutual-fund-research-skill)：证据核验、风险计算与研究报告；[完整合成案例](https://github.com/Leo984357/mutual-fund-research-skill/blob/main/examples/synthetic-diagnosis.md)。
+- [资本事件引擎](https://github.com/Leo984357/ashare-event-opportunity-engine) · [Hidden Pairs Factor](https://github.com/Leo984357/hidden-pairs-factor) · [Fund Pool Model](https://github.com/Leo984357/fund-pool-model)
+- [Strategy Audit](https://github.com/Leo984357/strategy-audit-prototype) · [Remote Workflow](https://github.com/Leo984357/remote-workflow-framework)
+- 研究方向：招聘文本中的生成式 AI 暴露、资产定价与量化实验的可复核性。
+- 经历：华泰证券（2026.07–至今）、中国对外贸易中心（2025.09–11）、证券时报（2025.07–09）、腾讯 CSIG（2024.07–08）。[详情](https://leo984357.github.io/#about)
 
-[查看使用示例与安装说明 →](https://github.com/Leo984357/mutual-fund-research-skill) · [完整示例报告](https://github.com/Leo984357/mutual-fund-research-skill/blob/main/examples/synthetic-diagnosis.md)
+</details>
 
-## 更多研究与工具
-
-| 项目 | 关注的问题 | 可查看的内容 |
-| --- | --- | --- |
-| [A-Share Event Opportunity Engine](https://github.com/Leo984357/ashare-event-opportunity-engine) | 多份公告如何归入同一个资本事件？ | 事件关联、状态迁移、证据链与合成样例 |
-| [Hidden Pairs Factor](https://github.com/Leo984357/hidden-pairs-factor) | 基金持仓覆盖能否形成股票研究信号？ | 因子构建、负结果、时间切分诊断与数据边界 |
-| [Fund Pool Model](https://github.com/Leo984357/fund-pool-model) | 如何形成可重复的日度基金池？ | 净值入库、横截面评分与组合权重 |
-| [Strategy Audit](https://github.com/Leo984357/strategy-audit-prototype) | 如何记录策略研究与审核过程？ | Solidity / Hardhat 存证与角色权限原型 |
-| [Remote Workflow](https://github.com/Leo984357/remote-workflow-framework) | 如何连接日常终端与远程计算？ | 多机任务路由、运行手册与可恢复备份 |
-
-## 研究方向
-
-**生成式 AI 暴露与资产定价**：从企业招聘文本构建公司层面的 AI 暴露指标，研究其与 A 股资产定价的关系。
-
-**量化研究的可复核性**：关注数据时点、实验配置、交易成本、样本外评估与结果留痕，让每个结论对应明确的研究条件。
-
-## 经历与教育
-
-| 时间 | 经历 |
-| --- | --- |
-| 2026.07–至今 | 华泰证券 · 机构业务实习 |
-| 2025.09–2025.11 | 中国对外贸易中心 · 贵宾事务实习 |
-| 2025.07–2025.09 | 证券时报 · 研究实习 |
-| 2024.07–2024.08 | 腾讯 CSIG · 运营实习 |
-| 2023–2027 | 广东外语外贸大学 · 金融工程（在读） |
-
-## 常用工具
-
-**研究与数据** · Python / pandas / SQL / LightGBM / scikit-learn<br>
-**工程与交付** · Git / SQLite / Streamlit / PySide6 / LaTeX
-
-<sub>Banner：Vincent van Gogh, The Starry Night (1889)，星空局部。[原作与来源](https://commons.wikimedia.org/wiki/File:VanGogh-starry_night.jpg) · Public domain.</sub>
+<sub>ASCII art after Vincent van Gogh’s <i>The Starry Night</i> (1889). [画作来源与生成方式](assets/ARTWORK.md) · [SVG 源码](scripts/build_profile_visuals.py)</sub>
