@@ -1,97 +1,68 @@
+<p><img src="assets/starry-night-banner.svg" width="100%" alt="梵高《星月夜》——星空局部横幅" /></p>
 
+# Shuoren Li · 李硕仁
 
-<p align="center">
-  <img src="assets/banner.svg" width="100%" />
-</p>
+**金融研究，落到数据与工具。**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&width=600&lines=Quantitative+Investment+%7C+Alternative+Data;ML-driven+trading+strategies+%7C+NLP+factor+models;LightGBM+Multi-Factor+Strategy+%E2%80%94+Live+on+QMT;LLM+Exposure+Factor" />
-</p>
+广东外语外贸大学金融工程在读。我围绕量化投资、另类数据与资产定价开展研究，把分散的金融信息整理成可追溯的数据、可检验的实验和可使用的工具。
 
-<p align="center">
-  <a href="mailto:leo2974656036@foxmail.com"><img src="https://img.shields.io/badge/-Email-F85D7F?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Leo984357"><img src="https://img.shields.io/badge/-GitHub-F85D7F?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://leo984357.github.io/"><img src="https://img.shields.io/badge/-Website-F85D7F?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Guangzhou%2FShenzhen-F85D7F?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
+[个人作品集](https://leo984357.github.io/) · [Email](mailto:leo2974656036@foxmail.com)
 
----
-<p align="center">
-  <img src="mona-lisa.png" width="420" alt="Mona Lisa rendered in colored ASCII" />
-</p>
-## 📊 GitHub Stats
+## 精选项目
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Leo984357?style=flat-square&label=Followers&color=8b949e&logo=github" />
-  <img src="https://img.shields.io/github/stars/Leo984357?style=flat-square&label=Stars&color=F8D866&logo=github" />
-  <img src="https://img.shields.io/github/repos/Leo984357?style=flat-square&label=Public%20Repos&color=F85D7F&logo=github" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Leo984357&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-  <br>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeo984357&label=Visitors&labelColor=1F222E&countColor=%23F85D7F" />
-</p>
+### 01 / 上市公司委托理财分析框架
 
----
+**从公开公告到结构化交易、机构关系与离线工作台。**
 
-## 🛠 Tech Stack
+覆盖公告采集、规则抽取、产品生命周期、公司—机构关系和数据质量核验。公开版提供脱敏样例，可以本地启动工作台，查看公司画像、资金流向和原文证据。
 
-**Languages & Core**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+[查看项目与界面预览 →](https://github.com/Leo984357/listed-company-wealth-framework)
 
-**ML & Data Science**  
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/LightGBM-F85D7F?style=flat-square&logo=lightning&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-8b949e?style=flat-square&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+### 02 / QMT Investment Assistant
 
-**Tools & Platforms**  
-<img src="https://img.shields.io/badge/QMT-8b949e?style=flat-square&logo=tradingview&logoColor=white" />
-<img src="https://img.shields.io/badge/Wind-8b949e?style=flat-square" />
-<img src="https://img.shields.io/badge/CSMAR-8b949e?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-8b949e?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Multi--Factor-8b949e?style=flat-square" />
+**从多因子研究到模型训练、回测评估与模拟执行。**
 
----
+以沪深 300 为研究场景，组织 LightGBM / Ridge 实验、组合构建、交易成本和阶段化评审。当前公开实现提供研究与模拟执行；方法、配置和研究记录在仓库内提供。
 
-## 📌 Featured Projects
+[查看研究流程与运行说明 →](https://github.com/Leo984357/qmt_investment_assistant)
 
-| Direction | Canonical projects |
-|---|---|
-| **Quant Research & Trading** | **[QMT Investment Assistant](https://github.com/Leo984357/qmt_investment_assistant)** — HS300 多因子研究、LightGBM / Ridge、回测与 QMT 实盘<br>**[Hidden Pairs Factor](https://github.com/Leo984357/hidden-pairs-factor)** — 从基金隐形重仓关系挖掘股票因子 |
-| **Mutual Fund Research** | **[Mutual Fund Research Skill](https://github.com/Leo984357/mutual-fund-research-skill)** — 从截图与持仓材料到联网核验、基金诊断、组合分析和动态换仓比较<br>**[Fund Pool Model](https://github.com/Leo984357/fund-pool-model)** — 公募基金横截面评分、日度选基与组合权重生成 |
-| **Capital-Market Research Infrastructure** | **[A-Share Event Opportunity Engine](https://github.com/Leo984357/ashare-event-opportunity-engine)** — 将公告链接为资本事件，追踪状态与证据链<br>**[Strategy Audit Prototype](https://github.com/Leo984357/strategy-audit-prototype)** — 量化研究生命周期的可追溯审计原型 |
-| **Wealth-Management Data Engineering** | **[Listed-Company Wealth Framework](https://github.com/Leo984357/listed-company-wealth-framework)** — 上市公司委托理财行为数据库：公开公告自动采集 → PDF 结构化抽取 → 公司-机构五层关系网络 → 单文件离线分析工作台（含脱敏样例） |
+### 03 / 公募基金投研 Skill
 
-Archived predecessors and supporting utilities are intentionally omitted here; each direction points to
-its current public implementation.
+**把基金代码、持仓清单和截图，整理成有来源的投研报告。**
 
----
+连接材料识别、公开数据核验、收益风险计算、组合暴露与换仓比较，提供安装步骤、示例提问，以及可复现的合成净值案例。
 
-## 💼 Experience
+[查看使用示例与安装说明 →](https://github.com/Leo984357/mutual-fund-research-skill) · [完整示例报告](https://github.com/Leo984357/mutual-fund-research-skill/blob/main/examples/synthetic-diagnosis.md)
 
-| | |
-|---|---|
-| **Huatai Securities** · Institutional Business Intern | Guangzhou · Jul 2026 – Present |
-| **Securities Times** · Research Intern | Shenzhen · Jul 2025 – Sep 2025 |
-| **China Foreign Trade Centre** · VIP Affairs Intern | Guangzhou · Sep 2025 – Nov 2025 |
-| **Tencent CSIG** · Operations Intern | Shenzhen · Jul 2024 – Aug 2024 |
-| **GDUFS** · B.Eng Financial Engineering | Guangzhou · 2023 – 2027 |
+## 更多研究与工具
 
----
+| 项目 | 关注的问题 | 可查看的内容 |
+| --- | --- | --- |
+| [A-Share Event Opportunity Engine](https://github.com/Leo984357/ashare-event-opportunity-engine) | 多份公告如何归入同一个资本事件？ | 事件关联、状态迁移、证据链与合成样例 |
+| [Hidden Pairs Factor](https://github.com/Leo984357/hidden-pairs-factor) | 基金持仓覆盖能否形成股票研究信号？ | 因子构建、负结果、时间切分诊断与数据边界 |
+| [Fund Pool Model](https://github.com/Leo984357/fund-pool-model) | 如何形成可重复的日度基金池？ | 净值入库、横截面评分与组合权重 |
+| [Strategy Audit](https://github.com/Leo984357/strategy-audit-prototype) | 如何记录策略研究与审核过程？ | Solidity / Hardhat 存证与角色权限原型 |
+| [Remote Workflow](https://github.com/Leo984357/remote-workflow-framework) | 如何连接日常终端与远程计算？ | 多机任务路由、运行手册与可恢复备份 |
 
-## 📄 Research
+## 研究方向
 
-**Corporate LLM Exposure Factor & Asset Pricing**<br>
-~7.5M job postings (2014–2024) → NLP pipeline → firm-year AI exposure factor (Ef) → Chinese A-share asset pricing.
+**生成式 AI 暴露与资产定价**：从企业招聘文本构建公司层面的 AI 暴露指标，研究其与 A 股资产定价的关系。
 
-**HS300 LightGBM Multi-Factor Strategy** — *First Prize, FinTech Diankuan Cup (Top 2%)*  
-81.87% cumulative return vs 11.87% benchmark (2022–2025). Live on QMT.
+**量化研究的可复核性**：关注数据时点、实验配置、交易成本、样本外评估与结果留痕，让每个结论对应明确的研究条件。
+
+## 经历与教育
+
+| 时间 | 经历 |
+| --- | --- |
+| 2026.07–至今 | 华泰证券 · 机构业务实习 |
+| 2025.09–2025.11 | 中国对外贸易中心 · 贵宾事务实习 |
+| 2025.07–2025.09 | 证券时报 · 研究实习 |
+| 2024.07–2024.08 | 腾讯 CSIG · 运营实习 |
+| 2023–2027 | 广东外语外贸大学 · 金融工程（在读） |
+
+## 常用工具
+
+**研究与数据** · Python / pandas / SQL / LightGBM / scikit-learn<br>
+**工程与交付** · Git / SQLite / Streamlit / PySide6 / LaTeX
+
+<sub>Banner：Vincent van Gogh, The Starry Night (1889)，星空局部。[原作与来源](https://commons.wikimedia.org/wiki/File:VanGogh-starry_night.jpg) · Public domain.</sub>
