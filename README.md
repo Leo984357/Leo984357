@@ -5,11 +5,11 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg">
-  <img src="assets/profile-hero.svg" width="100%" alt="Shuoren Li 李硕仁 · 金融工程 @ GDUFS · 量化研究与金融数据工程">
+  <img src="assets/profile-hero.svg" width="100%" alt="Shuoren Li 李硕仁 · 广东外语外贸大学金融工程本科生 · 量化研究">
 </picture>
 
 <p align="center">
-  <a href="https://leo984357.github.io/"><picture><source media="(max-width: 600px)" srcset="assets/nav-portfolio-mobile.svg"><img src="assets/nav-portfolio.svg" width="32%" alt="进入互动作品集"></picture></a>
+  <a href="https://leo984357.github.io/"><picture><source media="(max-width: 600px)" srcset="assets/nav-portfolio-mobile.svg"><img src="assets/nav-portfolio.svg" width="32%" alt="个人主页"></picture></a>
   <a href="mailto:leo2974656036@foxmail.com"><picture><source media="(max-width: 600px)" srcset="assets/nav-email-mobile.svg"><img src="assets/nav-email.svg" width="32%" alt="邮件联系李硕仁"></picture></a>
   <a href="https://github.com/Leo984357?tab=repositories"><picture><source media="(max-width: 600px)" srcset="assets/nav-source-mobile.svg"><img src="assets/nav-source.svg" width="32%" alt="浏览全部代码仓库"></picture></a>
 </p>
@@ -19,25 +19,25 @@
 <a href="https://github.com/Leo984357/listed-company-wealth-framework">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/project-wealth-mobile.svg">
-  <img src="assets/project-wealth.svg" width="100%" alt="委托理财分析框架：公开公告→交易记录→机构关系。16家公司、4372条交易、314家机构的脱敏样例，点击查看真实工作台。">
+  <img src="assets/project-wealth.svg" width="100%" alt="委托理财分析框架：采集并整理上市公司委托理财公告，提供分析工作台。含16家公司、4372条交易、314家机构的脱敏样例。">
 </picture>
 </a>
 
 <a href="https://github.com/Leo984357/qmt_investment_assistant">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/project-qmt-mobile.svg">
-  <img src="assets/project-qmt.svg" width="100%" alt="QMT Investment Assistant：LightGBM / Ridge、配置化实验、成本后回测与模拟执行，点击查看方法与代码。">
+  <img src="assets/project-qmt.svg" width="100%" alt="QMT Investment Assistant：沪深300多因子研究、成本后回测与模拟执行，使用LightGBM和Ridge。">
 </picture>
 </a>
 
 <a href="https://github.com/Leo984357/mutual-fund-research-skill">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/project-fund-mobile.svg">
-  <img src="assets/project-fund.svg" width="100%" alt="公募基金投研 Skill：材料识别、公开核验、收益风险计算与报告，点击查看安装和完整示例。">
+  <img src="assets/project-fund.svg" width="100%" alt="公募基金投研 Skill：分析基金和持仓，核验数据，计算收益风险并生成报告。提供安装说明和合成净值示例。">
 </picture>
 </a>
 
-<picture><source media="(max-width: 600px)" srcset="assets/section-index-mobile.svg"><img src="assets/section-index.svg" width="100%" alt="研究与工具索引"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/section-index-mobile.svg"><img src="assets/section-index.svg" width="100%" alt="其他项目"></picture>
 
 <a href="https://github.com/Leo984357/ashare-event-opportunity-engine">
 <picture>
@@ -87,16 +87,16 @@
 </picture>
 
 <details>
-<summary>文字索引 / Accessible project index</summary>
+<summary>文字版介绍与项目链接</summary>
 
-**Shuoren Li · 李硕仁**，广东外语外贸大学金融工程在读。关注量化投资、另类数据与资产定价，把研究问题转化为可复核的实验与工具。
+我是**李硕仁（Shuoren Li）**，广东外语外贸大学金融工程本科生（2023–2027）。主要关注量化研究、另类数据和资产定价。
 
-- [上市公司委托理财分析框架](https://github.com/Leo984357/listed-company-wealth-framework)：公告采集、交易抽取、机构关系和离线工作台。
-- [QMT Investment Assistant](https://github.com/Leo984357/qmt_investment_assistant)：因子研究、成本后回测与模拟执行。
-- [公募基金投研 Skill](https://github.com/Leo984357/mutual-fund-research-skill)：证据核验、风险计算与研究报告；[完整合成案例](https://github.com/Leo984357/mutual-fund-research-skill/blob/main/examples/synthetic-diagnosis.md)。
+- [上市公司委托理财分析框架](https://github.com/Leo984357/listed-company-wealth-framework)：采集并整理上市公司委托理财公告，提供分析工作台。
+- [QMT Investment Assistant](https://github.com/Leo984357/qmt_investment_assistant)：沪深 300 多因子研究、成本后回测和模拟执行。
+- [公募基金投研 Skill](https://github.com/Leo984357/mutual-fund-research-skill)：分析基金和持仓，生成研究报告；附[合成净值示例](https://github.com/Leo984357/mutual-fund-research-skill/blob/main/examples/synthetic-diagnosis.md)。
 - [资本事件引擎](https://github.com/Leo984357/ashare-event-opportunity-engine) · [Hidden Pairs Factor](https://github.com/Leo984357/hidden-pairs-factor) · [Fund Pool Model](https://github.com/Leo984357/fund-pool-model)
 - [Strategy Audit](https://github.com/Leo984357/strategy-audit-prototype) · [Remote Workflow](https://github.com/Leo984357/remote-workflow-framework)
-- 研究方向：招聘文本中的生成式 AI 暴露、资产定价与量化实验的可复核性。
+- 研究方向：用企业招聘文本衡量生成式 AI 暴露，研究其与资产定价的关系。
 - 经历：华泰证券（2026.07–至今）、中国对外贸易中心（2025.09–11）、证券时报（2025.07–09）、腾讯 CSIG（2024.07–08）。[详情](https://leo984357.github.io/#about)
 
 </details>

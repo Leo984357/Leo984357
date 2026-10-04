@@ -4,10 +4,18 @@ Usage: python scripts/build_ascii_banner.py --source /path/to/starry-night.jpg
 Requires Pillow. The output SVG contains text only, with no embedded raster.
 """
 from argparse import ArgumentParser
+from colorsys import hls_to_rgb, rgb_to_hls
 from html import escape
 from pathlib import Path
 
 from PIL import Image
+
+
+def color_grade(rgb):
+    """A small, repeatable color lift applied only to fresh source samples."""
+    hue, lightness, saturation = rgb_to_hls(*(channel/255 for channel in rgb))
+    graded = hls_to_rgb(hue, min(1, lightness*1.04), min(1, saturation*1.14))
+    return tuple(round(channel*255) for channel in graded)
 
 
 def main():
@@ -42,11 +50,14 @@ def main():
         char = ramp[round(level*(len(ramp)-1))]
         if char == ' ':
             continue
-        # A slight lift keeps the sampled colors legible against the dark ground.
-        color = '#'+''.join(f'{min(255, round(channel*1.12+10)):02x}' for channel in rgb)
+        # Keep the original density calibration separate from the display color,
+        # so this restrained grade never changes a character or its animation.
+        density_rgb = tuple(min(255, round(channel*1.12+10)) for channel in rgb)
+        density_color = '#'+''.join(f'{channel:02x}' for channel in density_rgb)
+        color = '#'+''.join(f'{channel:02x}' for channel in color_grade(density_rgb))
         x = (index % columns) * cell_width + 1
         y = (index // columns) * cell_height + 16
-        parts.append(f'<text x="{x}" y="{y}" fill="{color}">{escape(char)}</text>')
+        parts.append(f'<text x="{x}" y="{y}" fill="{color}" data-density-color="{density_color}">{escape(char)}</text>')
     parts.append('</g></svg>')
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text('\n'.join(parts)+'\n', encoding='utf-8')

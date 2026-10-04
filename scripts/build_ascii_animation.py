@@ -50,6 +50,7 @@ def read_source(path):
         raise ValueError('Expected a 1600 x 560 source SVG')
     characters = [' '] * (COLUMNS * ROWS)
     colors = [None] * len(characters)
+    density_colors = [None] * len(characters)
     for glyph in svg.findall('.//svg:text', NS):
         character = glyph.text or ''
         x, y = float(glyph.attrib['x']), float(glyph.attrib['y'])
@@ -64,6 +65,8 @@ def read_source(path):
             raise ValueError('Duplicate source cell')
         color = glyph.attrib['fill'].lstrip('#')
         colors[index] = tuple(int(color[i:i + 2], 16) for i in (0, 2, 4))
+        density_color = glyph.attrib.get('data-density-color', glyph.attrib['fill']).lstrip('#')
+        density_colors[index] = tuple(int(density_color[i:i + 2], 16) for i in (0, 2, 4))
         characters[index] = character
 
     # Spaces have no painted color in SVG. Extend the nearest sky color into
@@ -85,12 +88,13 @@ def read_source(path):
         for neighbor in neighbors:
             if colors[neighbor] is None:
                 colors[neighbor] = colors[index]
+                density_colors[neighbor] = density_colors[index]
                 queue.append(neighbor)
     if any(color is None for color in colors):
         raise ValueError('Source has no visible glyphs')
 
     background = svg.find('svg:rect', NS).attrib['fill']
-    return ''.join(characters), colors, background, sha256(raw).hexdigest()
+    return ''.join(characters), colors, background, sha256(raw).hexdigest(), density_colors
 
 
 def density_field(characters, colors):
@@ -172,8 +176,10 @@ def sample(colors, densities, x, y):
     return rgb, density
 
 
-def build_frames(characters, colors):
-    densities = density_field(characters, colors)
+def build_frames(characters, colors, density_colors=None):
+    # Display color can be graded independently; the reference ink preserves
+    # the exact established glyph motion across palette-only adjustments.
+    densities = density_field(characters, density_colors or colors)
     fields = prepare_fields()
     color_frames, density_frames = [], []
     maximum_displacement = 0.0
@@ -261,8 +267,8 @@ def main():
     parser.add_argument('--source', type=Path, default=ROOT / 'assets/starry-night-ascii.svg')
     parser.add_argument('--output', type=Path, default=ROOT / 'assets/starry-night-frames.json')
     args = parser.parse_args()
-    characters, colors, background, source_hash = read_source(args.source)
-    character_frames, color_frames, fields, displacement = build_frames(characters, colors)
+    characters, colors, background, source_hash, density_colors = read_source(args.source)
+    character_frames, color_frames, fields, displacement = build_frames(characters, colors, density_colors)
     palette, index_frames = shared_palette(color_frames)
     payload = {
         'version': 1, 'columns': COLUMNS, 'rows': ROWS,
