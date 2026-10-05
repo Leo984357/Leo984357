@@ -8,11 +8,10 @@
   <img src="assets/profile-hero.svg" width="100%" alt="Shuoren Li 李硕仁 · 量化投资、另类数据与资产定价">
 </picture>
 
-<p align="center">
-  <a href="https://leo984357.github.io/"><picture><source media="(max-width: 600px)" srcset="assets/nav-portfolio-mobile.svg"><img src="assets/nav-portfolio.svg" width="32%" alt="个人主页"></picture></a>
-  <a href="mailto:leo2974656036@foxmail.com"><picture><source media="(max-width: 600px)" srcset="assets/nav-email-mobile.svg"><img src="assets/nav-email.svg" width="32%" alt="邮件联系李硕仁"></picture></a>
-  <a href="https://github.com/Leo984357?tab=repositories"><picture><source media="(max-width: 600px)" srcset="assets/nav-source-mobile.svg"><img src="assets/nav-source.svg" width="32%" alt="浏览全部代码仓库"></picture></a>
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-tools-mobile.svg">
+  <img src="assets/profile-tools.svg" width="100%" alt="技术栈：Python / pandas / SQL / SQLite / LightGBM / scikit-learn / Git / LaTeX。">
+</picture>
 
 <picture><source media="(max-width: 600px)" srcset="assets/section-work-mobile.svg"><img src="assets/section-work.svg" width="100%" alt="精选项目 / Selected work"></picture>
 
@@ -74,9 +73,16 @@
 </picture>
 </a>
 
+
+
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-tools-mobile.svg">
-  <img src="assets/profile-tools.svg" width="100%" alt="技术栈：Python / pandas / SQL / SQLite / LightGBM / scikit-learn / Git / LaTeX。">
+  <source media="(max-width: 600px)" srcset="assets/profile-research-mobile.svg">
+  <img src="assets/profile-research.svg" width="100%" alt="研究方向：用招聘文本研究生成式AI暴露与资产定价；尝试从基金持仓等数据中构建量化因子。">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-experience-mobile.svg">
+  <img src="assets/profile-experience.svg" width="100%" alt="实习经历：华泰证券机构业务、中国对外贸易中心贵宾事务、证券时报研究、腾讯CSIG运营。">
 </picture>
 
 <details>
@@ -91,6 +97,7 @@
 - [Strategy Audit](https://github.com/Leo984357/strategy-audit-prototype) · [Remote Workflow](https://github.com/Leo984357/remote-workflow-framework)
 - 研究方向：用企业招聘文本衡量生成式 AI 暴露，研究其与资产定价的关系。
 - 技术栈：Python、pandas、SQL、SQLite、LightGBM、scikit-learn、Git、LaTeX。
+- 实习经历：华泰证券（2026.07–至今）、中国对外贸易中心（2025.09–11）、证券时报（2025.07–09）、腾讯 CSIG（2024.07–08）。
 
 </details>
 

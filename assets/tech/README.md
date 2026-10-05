@@ -1,0 +1,1 @@
+Python, pandas, SQLite, scikit-learn, Git and LaTeX icons: Simple Icons (https://github.com/simple-icons/simple-icons), CC0. Brand marks remain subject to their respective trademark policies. SQL and LightGBM use custom database and tree-model symbols, not official logos.

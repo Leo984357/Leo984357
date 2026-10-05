@@ -2,6 +2,7 @@
 from pathlib import Path
 from html import escape
 import base64
+import re
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / 'assets'
@@ -120,21 +121,47 @@ for slug,tag,title,desc,color in mini:
     b=rect(1,1,598,176,PANEL,2,LINE)+label(25,35,tag,color,13)+text(25,86,title,32,INK,600)+text(25,133,desc,21,MUTED)+text(546,93,'↗',28,color)
     save('index-'+slug+'-mobile.svg',600,178,b,title+'：'+desc)
 
+technologies=[('python','Python'),('pandas','pandas'),('sql','SQL'),('sqlite','SQLite'),('lightgbm','LightGBM'),('scikitlearn','scikit-learn'),('git','Git'),('latex','LaTeX')]
+def tech_icon(slug,x,y,size):
+    svg=(ASSETS/'tech'/f'{slug}.svg').read_text()
+    attrs=re.search(r'<svg([^>]*)>',svg).group(1)
+    presentation=' '.join(re.findall(r'(?:fill|stroke|stroke-width)="[^\"]*"',attrs))
+    inner=re.sub(r'^.*?<svg[^>]*>','',svg,flags=re.S).rsplit('</svg>',1)[0]
+    return f'<g transform="translate({x} {y}) scale({size/24})" {presentation}>{inner}</g>'
 for mobile in (False,True):
-    w,h=(600,330) if mobile else (1200,210)
-    b=rect(0,0,w,h,PANEL,2)+label(28,38,'TECH STACK',ACCENT,14)
-    stacks=[('DATA','Python / pandas / SQL / SQLite'),
-            ('MODELS','LightGBM / scikit-learn'),
-            ('TOOLS','Git / LaTeX')]
-    if mobile:
-        for idx,(category,items) in enumerate(stacks):
-            y=80+idx*83
-            b+=label(28,y,category,MUTED,12)
-            b+=text(28,y+36,items,26,INK,400,MONO)
-    else:
-        for x,category,items,size in [(28,'DATA','Python / pandas / SQL / SQLite',21),
-                                      (520,'MODELS','LightGBM / scikit-learn',20),
-                                      (950,'TOOLS','Git / LaTeX',21)]:
-            b+=label(x,94,category,MUTED,13)+text(x,142,items,size,INK,400,MONO)
+    w,h=(600,364) if mobile else (1200,172)
+    b=rect(0,0,w,h,PANEL,2)+label(28,35,'TECH STACK',ACCENT,14)
+    for i,(slug,name) in enumerate(technologies):
+        if mobile:
+            x=28+(i%2)*290; y=63+(i//2)*73
+            b+=tech_icon(slug,x,y,37)+text(x+53,y+27,name,24,INK,400,MONO)
+        else:
+            x=28+i*146
+            b+=tech_icon(slug,x+41,62,38)
+            b+=text(x+60,136,name,17,INK,400,MONO,'text-anchor="middle"')
     save('profile-tools'+('-mobile' if mobile else '')+'.svg',w,h,b,'技术栈：Python、pandas、SQL、SQLite、LightGBM、scikit-learn、Git、LaTeX。')
+# Research notes and experience live on this profile rather than behind a second home page.
+for mobile in (False,True):
+    w,h=(600,420) if mobile else (1200,270)
+    b=rect(0,0,w,h,PANEL,2)+label(28,36,'RESEARCH',ACCENT,14)
+    research=[('生成式 AI 与资产定价',['用企业招聘文本衡量 AI 暴露，','分析它与 A 股资产定价的关系。']),
+              ('量化因子研究',['尝试从基金持仓等数据中构建因子，','记录数据时点、回测设置和检验结果。'])]
+    for i,(title,lines) in enumerate(research):
+        x,y=(28,94+i*168) if mobile else (28+i*595,104)
+        b+=text(x,y,title,29,INK,500)
+        for j,body in enumerate(lines):b+=text(x,y+43+j*35,body,22,MUTED)
+    save('profile-research'+('-mobile' if mobile else '')+'.svg',w,h,b,'研究方向：生成式AI与资产定价、基金持仓与量化因子研究。')
+    w,h=(600,416) if mobile else (1200,324)
+    b=rect(0,0,w,h,PANEL,2)+label(28,36,'EXPERIENCE / 实习经历',ACCENT,14)
+    jobs=[('2026.07 — 至今','华泰证券','机构业务实习'),('2025.09 — 2025.11','中国对外贸易中心','贵宾事务实习'),('2025.07 — 2025.09','证券时报','研究实习'),('2024.07 — 2024.08','腾讯 CSIG','运营实习')]
+    for i,(date,company,role) in enumerate(jobs):
+        if mobile:
+            y=79+i*85
+            b+=text(28,y,date,16,MUTED)+text(28,y+36,company,25,INK,500)+text(388,y+36,role,19,MUTED)
+            if i<3:b+=line(28,y+54,572,y+54)
+        else:
+            y=96+i*62
+            b+=text(28,y,date,19,MUTED)+text(365,y,company,27,INK,500)+text(910,y,role,21,MUTED)
+            if i<3:b+=line(28,y+22,1172,y+22)
+    save('profile-experience'+('-mobile' if mobile else '')+'.svg',w,h,b,'实习经历：华泰证券、中国对外贸易中心、证券时报、腾讯CSIG。')
 print('Built GitHub profile SVG assets')
