@@ -12,9 +12,9 @@ from PIL import Image
 
 
 def color_grade(rgb):
-    """A small, repeatable color lift applied only to fresh source samples."""
+    """Increase chroma while preserving the established hue and lightness."""
     hue, lightness, saturation = rgb_to_hls(*(channel/255 for channel in rgb))
-    graded = hls_to_rgb(hue, min(1, lightness*1.04), min(1, saturation*1.14))
+    graded = hls_to_rgb(hue, min(1, lightness*1.04), min(1, saturation**0.5*1.45))
     return tuple(round(channel*255) for channel in graded)
 
 
