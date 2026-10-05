@@ -26,28 +26,23 @@ def flat_tag(x,y,s,color=ACCENT,w=None):
 # The animated ASCII banner is a separate README picture. Keep this identity
 # panel compact so the artwork appears only once and can honor reduced motion.
 for mobile in (False,True):
-    w,h=(600,398) if mobile else (1200,280)
+    w,h=(600,306) if mobile else (1200,280)
     b=rect(0,0,w,43,PANEL)
     b+=pixel(23,22,7,MUTED)+pixel(39,22,7,LINE)+pixel(55,22,7,LINE)
     b+=label(78,27,'shuoren / research',MUTED,13)
     if mobile:
-        b+=label(28,90,'FINANCIAL ENGINEERING',ACCENT,16)
+        b+=label(28,90,'INTERESTS & PROJECTS',ACCENT,16)
         b+=text(23,157,'SHUOREN',67,INK,600)
         b+=text(23,224,'LI.',78,INK,600)
         b+=text(183,214,'李硕仁',29,ACCENT,500)
-        b+=text(28,270,'金融工程本科生 · 量化研究',25,INK,500)
-        b+=text(28,310,'广东外语外贸大学 · 2023—2027',20,MUTED)
-        b+=line(28,342,572,342)
-        b+=label(28,378,'ALTERNATIVE DATA / ASSET PRICING',MUTED,13)
+        b+=text(28,270,'量化投资 · 另类数据 · 资产定价',25,INK,500)
     else:
-        b+=label(36,92,'FINANCIAL ENGINEERING STUDENT',ACCENT,16)
+        b+=label(36,92,'INTERESTS & PROJECTS',ACCENT,16)
         b+=text(30,184,'SHUOREN LI.',92,INK,600)
         b+=text(820,134,'李硕仁',32,ACCENT,500)
-        b+=text(820,172,'广东外语外贸大学',21,MUTED)
         b+=line(36,216,1164,216)
-        b+=text(36,258,'金融工程本科生 · 量化研究',24,INK)
-        b+=label(772,256,'ALTERNATIVE DATA / ASSET PRICING',MUTED,12)
-    save('profile-hero'+('-mobile' if mobile else '')+'.svg',w,h,b,'Shuoren Li 李硕仁 · 金融工程本科生 · 量化研究')
+        b+=text(36,258,'量化投资 · 另类数据 · 资产定价',24,INK)
+    save('profile-hero'+('-mobile' if mobile else '')+'.svg',w,h,b,'Shuoren Li 李硕仁 · 量化投资、另类数据与资产定价')
 
 for name,title,subtitle,color in [('nav-portfolio.svg','PORTFOLIO','个人主页',ACCENT),('nav-email.svg','CONTACT','联系我',ACCENT),('nav-source.svg','REPOSITORIES','浏览项目',ACCENT)]:
     b=rect(1,1,394,76,PANEL,2,LINE)+text(22,32,title,19,INK,700,MONO)+text(22,58,subtitle,15,MUTED)+text(353,46,'↗',29,color)
@@ -126,12 +121,20 @@ for slug,tag,title,desc,color in mini:
     save('index-'+slug+'-mobile.svg',600,178,b,title+'：'+desc)
 
 for mobile in (False,True):
-    w,h=(600,310) if mobile else (1200,210)
-    b=rect(0,0,w,h,PANEL,2)+label(28,38,'TOOLS',ACCENT,14)
-    b+=text(28,93,'Python  /  SQL  /  LightGBM',27 if mobile else 31,INK,500,MONO)
+    w,h=(600,330) if mobile else (1200,210)
+    b=rect(0,0,w,h,PANEL,2)+label(28,38,'TECH STACK',ACCENT,14)
+    stacks=[('DATA','Python / pandas / SQL / SQLite'),
+            ('MODELS','LightGBM / scikit-learn'),
+            ('TOOLS','Git / LaTeX')]
     if mobile:
-        b+=text(28,139,'pandas  /  scikit-learn',25,MUTED,400,MONO)+text(28,182,'SQLite  /  Git  /  LaTeX',25,MUTED,400,MONO)+text(28,262,'广东外语外贸大学 · 2023—2027',21,ACCENT)
+        for idx,(category,items) in enumerate(stacks):
+            y=80+idx*83
+            b+=label(28,y,category,MUTED,12)
+            b+=text(28,y+36,items,26,INK,400,MONO)
     else:
-        b+=text(28,142,'pandas  /  scikit-learn  /  SQLite  /  Git  /  LaTeX',21,MUTED,400,MONO)+text(805,72,'GDUFS',34,ACCENT,600)+text(805,113,'金融工程 · 2023—2027',20,MUTED)+text(805,157,'本科在读',20,MUTED)
-    save('profile-tools'+('-mobile' if mobile else '')+'.svg',w,h,b,'常用工具：Python、SQL、LightGBM、pandas、scikit-learn、SQLite、Git、LaTeX。广东外语外贸大学金融工程在读。')
+        for x,category,items,size in [(28,'DATA','Python / pandas / SQL / SQLite',21),
+                                      (520,'MODELS','LightGBM / scikit-learn',20),
+                                      (950,'TOOLS','Git / LaTeX',21)]:
+            b+=label(x,94,category,MUTED,13)+text(x,142,items,size,INK,400,MONO)
+    save('profile-tools'+('-mobile' if mobile else '')+'.svg',w,h,b,'技术栈：Python、pandas、SQL、SQLite、LightGBM、scikit-learn、Git、LaTeX。')
 print('Built GitHub profile SVG assets')

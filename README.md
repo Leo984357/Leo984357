@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg">
-  <img src="assets/profile-hero.svg" width="100%" alt="Shuoren Li 李硕仁 · 广东外语外贸大学金融工程本科生 · 量化研究">
+  <img src="assets/profile-hero.svg" width="100%" alt="Shuoren Li 李硕仁 · 量化投资、另类数据与资产定价">
 </picture>
 
 <p align="center">
@@ -74,22 +74,15 @@
 </picture>
 </a>
 
-<a href="https://leo984357.github.io/#about">
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/index-about-mobile.svg">
-  <img src="assets/index-about.svg" width="100%" alt="研究与经历 · 另类数据、AI暴露与资产定价">
-</picture>
-</a>
-
 <picture>
   <source media="(max-width: 600px)" srcset="assets/profile-tools-mobile.svg">
-  <img src="assets/profile-tools.svg" width="100%" alt="工具：Python / SQL / LightGBM / pandas / scikit-learn / SQLite / Git / LaTeX。广东外语外贸大学金融工程在读。">
+  <img src="assets/profile-tools.svg" width="100%" alt="技术栈：Python / pandas / SQL / SQLite / LightGBM / scikit-learn / Git / LaTeX。">
 </picture>
 
 <details>
 <summary>文字版介绍与项目链接</summary>
 
-我是**李硕仁（Shuoren Li）**，广东外语外贸大学金融工程本科生（2023–2027）。主要关注量化研究、另类数据和资产定价。
+我对量化投资、另类数据和资产定价感兴趣。下面是相关项目和常用的技术栈。
 
 - [上市公司委托理财分析框架](https://github.com/Leo984357/listed-company-wealth-framework)：采集并整理上市公司委托理财公告，提供分析工作台。
 - [QMT Investment Assistant](https://github.com/Leo984357/qmt_investment_assistant)：沪深 300 多因子研究、成本后回测和模拟执行。
@@ -97,7 +90,7 @@
 - [资本事件引擎](https://github.com/Leo984357/ashare-event-opportunity-engine) · [Hidden Pairs Factor](https://github.com/Leo984357/hidden-pairs-factor) · [Fund Pool Model](https://github.com/Leo984357/fund-pool-model)
 - [Strategy Audit](https://github.com/Leo984357/strategy-audit-prototype) · [Remote Workflow](https://github.com/Leo984357/remote-workflow-framework)
 - 研究方向：用企业招聘文本衡量生成式 AI 暴露，研究其与资产定价的关系。
-- 经历：华泰证券（2026.07–至今）、中国对外贸易中心（2025.09–11）、证券时报（2025.07–09）、腾讯 CSIG（2024.07–08）。[详情](https://leo984357.github.io/#about)
+- 技术栈：Python、pandas、SQL、SQLite、LightGBM、scikit-learn、Git、LaTeX。
 
 </details>
 
